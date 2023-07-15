@@ -32,34 +32,39 @@
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS">
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript">
   </a>
 </p>
 
 <h3 align="center">Technologies & Frameworks:</h3>
 <p align="center">
-  <a href="https://hub.docker.com/u/ryanshatch">
+<!--   <a href="https://hub.docker.com/u/ryanshatch">
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
   </a>
   <a href="https://hub.docker.com/u/ryanshatch">
     <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/zensilva">
     <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker">
   </a> -->
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
   </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
+  </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse" alt="Eclipse">
+  </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
   </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-  </a>
-  <a href="https://github.com/ryanshatch">
+    <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
+    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/partedmagic-black?style=for-the-badge&logo=parted-magic" alt="Parted Magic">
@@ -74,7 +79,6 @@
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
-  </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
