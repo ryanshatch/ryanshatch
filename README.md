@@ -57,6 +57,8 @@
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse" alt="Eclipse">
   </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=maven" alt="Maven">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
   </a>
