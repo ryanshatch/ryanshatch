@@ -5,10 +5,18 @@
     Feel free to check out my website to learn more.</p>
   <i>
 <p align="center">
-  &darr; <br>
-  <br>
+  &darr;
+  <br><br>
+    <a href="http://ryanshatch.me">
+    <img src="https://img.shields.io/badge/my portfolio:_-ryanshatch.me-red" alt="opsec junkie">
+  </i><br>
+  </a>
+</p>
+<p align="center">
+<!--   &darr; <br>
+  <br> -->
   <a href="https://zensilva.github.io/">
-    <img src="http://img.shields.io/badge/Github-black?style=flat-square&logo=Github" alt="Github">
+    <img src="http://img.shields.io/badge/Business page:_-Zensilva.Github.io-yellow?style=flat-square&logo=Github" alt="Github">
   </i><br>
   </a>
 </p>
@@ -117,7 +125,7 @@
 
 <p align="center">
   <a href="https://github.com/ryanshatch">
-    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=green&style=flat" alt="Profile Views">
   </a>
 </p>
 
