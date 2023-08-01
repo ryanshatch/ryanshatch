@@ -16,7 +16,7 @@
 <!--   &darr; <br>
   <br> -->
   <a href="https://zensilva.github.io/">
-    <img src="http://img.shields.io/badge/Business page:_-Zensilva.Github.io-yellow?style=flat-square&logo=Github" alt="Github">
+    <img src="http://img.shields.io/badge/my alt's playground:_-zensilva.github.io-yellow?style=flat-square&logo=Github" alt="Github">
   </i><br>
   </a>
 </p>
