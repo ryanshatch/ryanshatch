@@ -7,16 +7,16 @@
 <p align="center">
   &darr;
   <br><br>
-    <a href="http://ryanshatch.me">
-    <img src="https://img.shields.io/badge/my portfolio:_-ryanshatch.me-red" alt="opsec junkie">
+    <a href="https://ryanshatch.me">
+    <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.me-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
   </i><br>
   </a>
 </p>
 <p align="center">
 <!--   &darr; <br>
   <br> -->
-  <a href="https://zensilva.github.io/">
-    <img src="http://img.shields.io/badge/my alt's playground:_-zensilva.github.io-yellow?style=flat-square&logo=Github" alt="Github">
+  <a href="https://ryanshatch.me/Flappy-Bird">
+    <img src="http://img.shields.io/badge/Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
 </p>
