@@ -16,7 +16,7 @@
 <!--   &darr; <br>
   <br> -->
   <a href="https://ryanshatch.me/Flappy-Bird">
-    <img src="http://img.shields.io/badge/Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
+    <img src="https://img.shields.io/badge/Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
 </p>
@@ -112,13 +112,13 @@
   <summary align="center">GitHub Stats</summary>
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=transparent" alt="Profile Details">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=transparent" alt="Profile Details">
     </a>
     <a href="https://github.com/ryanshatch">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
+      <img src="" alt="Streak Stats">
     </a>
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=transparent" alt="Stats">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=transparent" alt="Stats">
     </a>
   </p>
   <p align="center">
