@@ -67,33 +67,51 @@ Version: 2.2.6                   ***********************************************
   <a href="https://hub.docker.com/u/ryanshatch">
     <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
   </a> -->
-  <!-- <a href="https://github.com/zensilva">
-    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker">
-  </a> -->
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+  </a>
+    </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse" alt="Eclipse">
   </a>
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
     <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse" alt="Eclipse">
+    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
+  </a>
+    </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django">
+  </a>
+      </a>
+      <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
   </a>
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=maven" alt="Maven">
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
+  </a>
+    </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=maven" alt="gradle">
   </a>
     <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault">
+    <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
   </a>
+<!--     <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault">
+  </a> -->
+    <a href="https://github.com/zensilva">
+    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker">
+  </a>
+    </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-  </a>
+<!--   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/partedmagic-black?style=for-the-badge&logo=parted-magic" alt="Parted Magic">
+    <img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic">
   </a>
-</p>
+</p> -->
 
 
 <h3 align="center">OS:</h3>
