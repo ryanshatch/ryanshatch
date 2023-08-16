@@ -24,7 +24,7 @@ Version: 2.2.6                   ***********************************************
 <p align="center">
 <!--   &darr; <br>
   <br> -->
-  <a href="https://ryanshatch.me/Flappy-Bird">
+  <a href="https://rshatch.com">
     <img src="http://img.shields.io/badge/Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
