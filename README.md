@@ -16,8 +16,8 @@ Version: 2.2.6                   ***********************************************
 <p align="center">
   &darr;
   <br><br>
-<a href="https://ryanshatch.me">
-    <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.me-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
+<a href="https://ryanshatch.com">
+    <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
   </i><br>
   </a>
 </p>
