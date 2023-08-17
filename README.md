@@ -55,8 +55,8 @@ Version: 2.2.6                   ***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS">
   <a href="https://github.com/ryanshatch">   -->
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL">
+<!--   <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
   </a><br>
 
 <h3 align="center">Technologies & Frameworks:</h3>
