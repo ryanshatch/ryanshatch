@@ -95,6 +95,10 @@ Version: 2.2.6                   ***********************************************
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=maven" alt="gradle">
   </a>
+   </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/jersey-black?style=for-the-badge&logo=java" alt="Jersey">
+  </a>
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
   </a>
