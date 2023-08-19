@@ -7,11 +7,11 @@ Version: 2.2.6                   ***********************************************
 ****************************************************************************************
 -->
 
-<h1 align="center">Ryan S. Hatch 🌇</h1>
+<h1 align="center">☀️ Ryan S. Hatch 🌓</h1>
 
 <p align="center">
-  <b>Currently, I am studying computer science. I am obsessed with everything related to cyber security. 🔐<br>
-    Feel free to check out my website to learn more.</p>
+  <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘<br><br>
+   🔐 Feel free to check out my website to learn more. 🔓</p>
   <i>
 <p align="center">
   &darr;
@@ -24,13 +24,13 @@ Version: 2.2.6                   ***********************************************
 <p align="center">
 <!--   &darr; <br>
   <br> -->
-  <a href="https://rshatch.com">
-    <img src="http://img.shields.io/badge/Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
+  <a href="https://ryanshatch.com/Flappy-Bird">
+    <img src="http://img.shields.io/badge/Game:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
 </p>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
@@ -57,7 +57,7 @@ Version: 2.2.6                   ***********************************************
   <a href="https://github.com/ryanshatch">   -->
 <!--   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
-  </a><br>
+  </a><br><br>
 
 <h3 align="center">Technologies & Frameworks:</h3>
 <p align="center">
@@ -87,7 +87,7 @@ Version: 2.2.6                   ***********************************************
       </a>
       <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
-  </a>
+  </a><br>
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=maven" alt="Maven">
   </a>
@@ -98,7 +98,7 @@ Version: 2.2.6                   ***********************************************
    </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/jersey-black?style=for-the-badge&logo=java" alt="Jersey">
-  </a>
+  </a><br>
     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
   </a>
@@ -111,6 +111,7 @@ Version: 2.2.6                   ***********************************************
     </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
+    <br><br>
 <!--   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic">
@@ -118,7 +119,7 @@ Version: 2.2.6                   ***********************************************
 </p> -->
 
 
-<h3 align="center">OS:</h3>
+<h3 align="center">Operating Systems & Platforms:</h3>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
@@ -130,14 +131,14 @@ Version: 2.2.6                   ***********************************************
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
-  </a>
+  </a><br>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
-</p>
+</p><br>
 
 <details>
   <summary align="center">GitHub Stats</summary>
