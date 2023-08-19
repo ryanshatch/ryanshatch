@@ -17,7 +17,7 @@ Version: 2.2.6                   ***********************************************
   &darr;
   <br><br>
 <a href="https://ryanshatch.com">
-    <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
+    <img src="https://img.shields.io/badge/Resume & Portfolio:_-ryanshatch.com-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
   </i><br>
   </a>
 </p>
@@ -25,7 +25,7 @@ Version: 2.2.6                   ***********************************************
 <!--   &darr; <br>
   <br> -->
   <a href="https://ryanshatch.com/Flappy-Bird">
-    <img src="http://img.shields.io/badge/Game:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
+    <img src="http://img.shields.io/badge/Sandbox & Playground:_-rshatch.com-yellow?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
 </p>
