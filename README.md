@@ -105,7 +105,7 @@ Version: 2.2.6                   ***********************************************
 <!--     <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault">
   </a> -->
-    <a href="https://github.com/zensilva">
+    <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker">
   </a>
     </a>
@@ -126,6 +126,7 @@ Version: 2.2.6                   ***********************************************
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple" alt="Apple">
+  </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   </a>
