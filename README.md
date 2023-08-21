@@ -110,7 +110,7 @@ Version: 2.2.6                   ***********************************************
   </a>
     </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
+    <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
     <br><br>
 <!--   </a>
   <a href="https://github.com/ryanshatch">
@@ -125,13 +125,28 @@ Version: 2.2.6                   ***********************************************
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
   </a>
   <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple" alt="Apple">
+  <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
+  </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a><br>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora">
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/REDHAT-black?style=for-the-badge&logo=REDHAT" alt="REDHAT">
+  </a><br>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="Alpine Linux">
+  </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
   </a>
