@@ -131,7 +131,7 @@ Version: 2.2.6                   ***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   <a href="https://github.com/ryanshatch">
-  </a><br>
+  </a>
   <a href="https://github.com/ryanshatch">
       <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
