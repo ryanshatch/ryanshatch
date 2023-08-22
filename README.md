@@ -131,10 +131,11 @@ Version: 2.2.6                   ***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-  </a>
   </a><br>
   <a href="https://github.com/ryanshatch">
+      <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
+  </a>
+<!--   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
   <a href="https://github.com/ryanshatch">
@@ -148,10 +149,12 @@ Version: 2.2.6                   ***********************************************
   </a>
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Redhat-black?style=for-the-badge&logo=Redhat" alt="Redhat">
-  </a><br>
+  </a><br> -->
+  
 <!--   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Alpine-black?style=for-the-badge&logo=Alpine-Linux" alt="Alpine Linux">
   </a> -->
+  
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
   </a>
