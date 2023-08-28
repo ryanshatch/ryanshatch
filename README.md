@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: readme.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: August 22nd 2023   *******************************************************
-Version: 2.2.6                   *******************************************************
+Last Updated: August 28th 2023   *******************************************************
+Version: 2.2.7                  *******************************************************
 ****************************************************************************************
 -->
 
@@ -16,16 +16,19 @@ Version: 2.2.6                   ***********************************************
 <p align="center">
   &darr;
   <br><br>
+<a href="https://ryanshatch.com/resume">
+  <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
+</a>
+<br><br>
 <a href="https://ryanshatch.com">
-    <img src="https://img.shields.io/badge/Resume & Portfolio:_-ryanshatch.com-red?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
-  </i><br>
-  </a>
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
+</a>
+<br><br>
+<!-- <p align="center"> -->
 <!--   &darr; <br>
   <br> -->
   <a href="https://ryanshatch.com/Flappy-Bird">
-    <img src="http://img.shields.io/badge/Sandbox & Playground:_-Flappy Bird-yellow?style=flat-square&logo=Playstation" alt="Github">
+    <img src="http://img.shields.io/badge/Sandbox:_-Flappy Bird-blue?style=flat-square&logo=Playstation" alt="Github">
   </i><br>
   </a>
 </p>
@@ -185,7 +188,7 @@ Version: 2.2.6                   ***********************************************
 
 <p align="center">
   <a href="https://github.com/ryanshatch">
-    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=green&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
   </a>
 </p>
 
