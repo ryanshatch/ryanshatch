@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: readme.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: August 28th 2023   *******************************************************
-Version: 2.2.7                  *******************************************************
+Last Updated: August 29th 2023   *******************************************************
+Version: 2.2.8                  *******************************************************
 ****************************************************************************************
 -->
 
@@ -11,27 +11,24 @@ Version: 2.2.7                  ************************************************
 
 <p align="center">
   <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘<br><br>
-   🔐 Feel free to check out my website to learn more. 🔓</p>
-  <i>
-<p align="center">
-  &darr;
-  <br><br>
-<a href="https://ryanshatch.com/resume">
-  <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
-</a>
-<br><br>
-<a href="https://ryanshatch.com">
-  <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry Pi" alt="opsec junkie">
-</a>
-<br><br>
-<!-- <p align="center"> -->
-<!--   &darr; <br>
-  <br> -->
-  <a href="https://ryanshatch.com/Flappy-Bird">
-    <img src="http://img.shields.io/badge/Sandbox:_-Flappy Bird-blue?style=flat-square&logo=Playstation" alt="Github">
-  </i><br>
-  </a>
+   🔐 Feel free to check out my website to learn more. 🔓
 </p>
+
+<div align="center">
+  <p>&darr;</p>
+  <div>
+    <a href="https://ryanshatch.com/resume">
+      <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
+    </a>
+    <a href="https://ryanshatch.com">
+      <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
+    </a>
+    <a href="https://ryanshatch.com/Flappy-Bird">
+      <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
+    </a>
+  </div>
+</div>
+
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
