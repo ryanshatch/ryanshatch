@@ -1,9 +1,9 @@
 <!--
 ****************************************************************************************
-Title: readme.md                 *******************************************************
+Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: August 29th 2023   *******************************************************
-Version: 2.2.8                  *******************************************************
+Last Updated: Sept 13th 2023     *******************************************************
+Version: 2.2.8                   *******************************************************
 ****************************************************************************************
 -->
 
@@ -30,7 +30,6 @@ Version: 2.2.8                  ************************************************
 </div>
 
 <h1> </h1>
-
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
@@ -121,7 +120,6 @@ Version: 2.2.8                  ************************************************
   </a>
 </p> -->
 
-
 <h3 align="center">Operating Systems & Platforms:</h3>
 <p align="center">
   <a href="https://github.com/ryanshatch">
@@ -164,6 +162,7 @@ Version: 2.2.8                  ************************************************
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
 </p>
+
 <h1></h1><br>
 
 <details>
@@ -191,7 +190,6 @@ Version: 2.2.8                  ************************************************
     <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
   </a>
 </p>
-
 
 <!--
 **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
