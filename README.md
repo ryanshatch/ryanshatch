@@ -29,6 +29,8 @@ Version: 2.2.8                  ************************************************
   </div>
 </div>
 
+<h1> </h1>
+
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
@@ -161,7 +163,8 @@ Version: 2.2.8                  ************************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
-</p><br>
+</p>
+<h1></h1><br>
 
 <details>
   <summary align="center">GitHub Stats</summary>
