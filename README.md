@@ -192,7 +192,7 @@ Version: 2.2.8                   ***********************************************
 </p>
 
 <div style="text-align: center;">
-  <img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: auto; height: auto;">
+  <img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;">
 </div>
 
 <!--
