@@ -191,15 +191,9 @@ Version: 2.2.8                   ***********************************************
   </a>
 </p>
 
-<style>
-  img {
-    width: 100%;
-    height: auto;
-  }
-</style>
-<p align="center">
-  <img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce">
-</p>
+<div style="text-align: center;">
+  <img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: 100%;">
+</div>
 
 <!--
 **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
