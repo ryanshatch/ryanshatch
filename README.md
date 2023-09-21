@@ -32,7 +32,7 @@ Version: 2.2.8                   ***********************************************
 <h1>
 <div style="text-align">
 <div align="center">
-<img src="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg" alt="Iam" style="width: 50%; height: 50;">
+<img src="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg" alt="Iam" style="width: 100%; height: 50%;">
 </h1>
 
 
