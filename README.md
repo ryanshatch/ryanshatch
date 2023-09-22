@@ -143,10 +143,15 @@ Version: 2.2.8                   ***********************************************
   <!-- Profile Details and Commits -->
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark" alt="Streak Stats">
     </a>
     <a href="https://github.com/ryanshatch">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark" alt="Streak Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ryanshatch">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
     </a>
   </p>
   
@@ -174,18 +179,13 @@ Version: 2.2.8                   ***********************************************
   
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=github_dark" alt="Top Languages">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
       <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
     </a>
   </p>
   <picture>
-    <div align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg">
-      <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg">
+  <div align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
+    <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
   </picture>
     <!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
     <!-- 
