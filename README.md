@@ -145,10 +145,10 @@ Version: 2.2.8                   ***********************************************
     <a href="https://github.com/ryanshatch">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark" alt="Streak Stats">
     </a>
-    <a href="https://github.com/ryanshatch">
+<!--     <a href="https://github.com/ryanshatch">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages">
     </a>
-  </p>
+  </p> -->
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
@@ -191,7 +191,8 @@ Version: 2.2.8                   ***********************************************
     <!-- 
 <div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div>
 -->
-    <!--
+    
+<!--
 **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
