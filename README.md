@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Sept 18th 2023     *******************************************************
-Version: 2.2.8                   *******************************************************
+Last Updated: Sept 24th 2023     *******************************************************
+Version: 2.3.0                   *******************************************************
 ****************************************************************************************
 -->
 <h1 align="center">☀️ Ryan S. Hatch 🌓</h1>
@@ -176,24 +176,31 @@ Version: 2.2.8                   ***********************************************
   </p>
   
   <!-- Most Used Languages -->
-  
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
-    </a>
-  </p>
+
+  <p align="center">  
+  <a href="https://github.com/ryanshatch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
+  </a>
+</p>
+
   <picture>
   <div align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
     <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
-  </picture>
-    <!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
-    <!-- 
-<div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div>
--->
-    
-<!--
-**ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </div>
+  </picture><br>
+
+  <p align="center">
+  <a href="https://github.com/ryanshatch">
+    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
+  </a>
+</p>
+  
+<!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
+<!-- <div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div> -->
+
+
+<!-- **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
