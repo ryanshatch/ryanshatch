@@ -168,10 +168,10 @@ Version: 2.3.0                   ***********************************************
   <!-- Top Languages by Repo and Commit -->
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=github_dark" alt="By Repo">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS" alt="By Repo">
     </a>
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=github_dark" alt="By Commit">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS" alt="By Commit">
     </a>
   </p>
   
