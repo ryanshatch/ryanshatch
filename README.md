@@ -14,10 +14,10 @@ Version: 2.3.0                   ***********************************************
 <div align="center">
   <p>&darr;</p>
   <div>
-    <a href="https://ryanshatch.com/resume">
+<!--     <a href="https://ryanshatch.com/resume">
       <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
-    </a>
-    <a href="https://ryanshatch.com">
+    </a> -->
+    <a href="https://resume.ryanshatch.com">
       <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
     </a>
     <a href="https://ryanshatch.com/Flappy-Bird">
