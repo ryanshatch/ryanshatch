@@ -17,7 +17,7 @@ Version: 2.3.0                   ***********************************************
 <!--     <a href="https://ryanshatch.com/resume">
       <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
     </a> -->
-    <a href="https://resume.ryanshatch.com">
+    <a href="https://ryanshatch.com">
       <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
     </a>
     <a href="https://ryanshatch.com/Flappy-Bird">
