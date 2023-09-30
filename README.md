@@ -14,9 +14,7 @@ Version: 2.3.0                   ***********************************************
 <div align="center">
   <p>&darr;</p>
   <div>
-<!--     <a href="https://ryanshatch.com/resume">
-      <img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
-    </a> -->
+    <!--     <a href="https://ryanshatch.com/resume"><img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
     <a href="https://ryanshatch.com">
       <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
     </a>
@@ -38,6 +36,8 @@ Version: 2.3.0                   ***********************************************
 <h1></h1>
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
+  <!--   <h4 align="center">Programming:</h4><p align="center"> -->
+  <!-- Back end Languages -->
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
@@ -48,13 +48,19 @@ Version: 2.3.0                   ***********************************************
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript">
+    <img src="https://img.shields.io/badge/C Sharp-black?style=for-the-badge&logo=csharp" alt="C Sharp">
   </a>
-  <a href="https://hub.docker.com/u/ryanshatch">
+  <br>
+  <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
+  <!-- Front End Languages -->
+  <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
   </a>
-  <!--     <a href="https://hub.docker.com/u/ryanshatch"> -->
-  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript">
   </a>
   <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS"><a href="https://github.com/ryanshatch">   -->
   <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
@@ -138,71 +144,59 @@ Version: 2.3.0                   ***********************************************
     <br>
     <details>
       <!-- GitHub Stats -->
-  <summary align="center">GitHub Stats</summary>
-  
-  <!-- Profile Details and Commits -->
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark" alt="Streak Stats">
-    </a>
-<!--     <a href="https://github.com/ryanshatch">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages">
-    </a>
-  </p> -->
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
-    </a>
-  </p>
-  
-  <!-- Current Streak and Stats -->
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=github_dark&utcOffset=8" alt="Streak Stats">
-    </a>
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=github_dark" alt="Stats">
-    </a>
-  </p>
-  
-  <!-- Top Languages by Repo and Commit -->
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS" alt="By Repo">
-    </a>
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS" alt="By Commit">
-    </a>
-  </p>
-  
-  <!-- Most Used Languages -->
+      <summary align="center">GitHub Stats</summary>
+      <!-- Profile Details and Commits -->
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark" alt="Streak Stats">
+        </a>
+        <!--     <a href="https://github.com/ryanshatch"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages"></a></p> -->
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
+        </a>
+      </p>
+      <!-- Current Streak and Stats -->
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=github_dark&utcOffset=8" alt="Streak Stats">
+        </a>
+        <a href="https://github.com/ryanshatch">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=github_dark" alt="Stats">
+        </a>
+      </p>
+      <!-- Top Languages by Repo and Commit -->
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS" alt="By Repo">
+        </a>
+        <a href="https://github.com/ryanshatch">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS" alt="By Commit">
+        </a>
+      </p>
+      <!-- Most Used Languages -->
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
+        </a>
+      </p>
+      <picture>
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
+          <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
+        </div>
+      </picture>
+      <br>
+      <p align="center">
+        <a href="https://github.com/ryanshatch">
+          <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
+        </a>
+      </p>
+      <!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
+      <!-- <div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div> -->
+      <!-- **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <p align="center">  
-  <a href="https://github.com/ryanshatch">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
-  </a>
-</p>
-
-  <picture>
-  <div align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
-    <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
-  </div>
-  </picture><br>
-
-  <p align="center">
-  <a href="https://github.com/ryanshatch">
-    <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
-  </a>
-</p>
-  
-<!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
-<!-- <div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div> -->
-
-
-<!-- **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
