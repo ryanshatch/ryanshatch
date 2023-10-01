@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Sept 30th 2023     *******************************************************
-Version: 2.4.0                   *******************************************************
+Last Updated: Oct 1st 2023       *******************************************************
+Version: 2.4.1                   *******************************************************
 ****************************************************************************************
 -->
 <h1 align="center">☀️ Ryan S. Hatch 🌓</h1>
@@ -39,28 +39,31 @@ Version: 2.4.0                   ***********************************************
   <!--   <h4 align="center">Programming:</h4><p align="center"> -->
   <!-- Back end Languages -->
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
+    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
+    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/C Sharp-black?style=for-the-badge&logo=csharp" alt="C Sharp">
+    <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=blue" alt="C #">
   </a>
   <br>
   <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
   <!-- Front End Languages -->
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
+    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
+    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+  </a>
+    <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
   </a>
   <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS"><a href="https://github.com/ryanshatch">   -->
   <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
@@ -71,41 +74,41 @@ Version: 2.4.0                   ***********************************************
 <p align="center">
   <!--   <a href="https://hub.docker.com/u/ryanshatch"><img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5"></a><a href="https://hub.docker.com/u/ryanshatch"><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3"></a> -->
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+    <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
   </a>
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse" alt="Eclipse">
+    <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
+    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask" alt="Flask">
-  </a>
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django">
+    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
   </a>
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
+  </a>
+  </a><br>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache-Maven">
+  </a>
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+  </a>
+  </a>
+  <a href="https://github.com/ryanshatch">
+    <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
   </a>
   <br>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=maven" alt="Maven">
-  </a>
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=maven" alt="gradle">
-  </a>
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/jersey-black?style=for-the-badge&logo=java" alt="Jersey">
-  </a>
-  <br>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
+    <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
   </a>
   <!--     <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault"></a> -->
   <a href="https://github.com/ryanshatch">
@@ -113,31 +116,31 @@ Version: 2.4.0                   ***********************************************
   </a>
   </a>
   <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
+    <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
     <br>
     <br>
     <!--   </a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
     <h3 align="center">Operating Systems & Platforms:</h3>
     <p align="center">
       <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
+        <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
       </a>
       <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple" alt="Apple">
+        <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Apple">
       </a>
       <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
+        <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
         <a href="https://github.com/ryanshatch"></a>
         <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-        </a>
+          <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
+        </a><br>
         <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Mint-black?style=for-the-badge&logo=Linux Mint" alt="Linux Mint"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Redhat-black?style=for-the-badge&logo=Redhat" alt="Redhat"></a><br> -->
         <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/Alpine-black?style=for-the-badge&logo=Alpine-Linux" alt="Alpine Linux"></a> -->
         <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
+          <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white" alt="Apple">
         </a>
         <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
+          <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
         </a>
     </p>
     <h1></h1>
