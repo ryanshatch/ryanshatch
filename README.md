@@ -2,10 +2,18 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Oct 1st 2023       *******************************************************
-Version: 2.4.1                   *******************************************************
+Last Updated: Oct 2nd 2023       *******************************************************
+Version: 2.4.2                   *******************************************************
 ****************************************************************************************
 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 <h1 align="center">☀️ Ryan S. Hatch 🌓</h1>
 <p align="center">
   <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
