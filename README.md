@@ -3,7 +3,7 @@
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
 Last Updated: Oct 6th 2023       *******************************************************
-Version: 2.5.0                   *******************************************************
+Version: 2.5                     *******************************************************
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -76,7 +76,7 @@ Version: 2.5.0                   ***********************************************
       <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
       </a>
       <br>
-      <br>
+<!--       <br> -->
     <h1></h1>
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
     <p align="center">
@@ -223,10 +223,9 @@ Version: 2.5.0                   ***********************************************
                       </p>
                       <!-- <div align="center"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce"></div> -->
                       <!-- <div style="text-align: center;"><img src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" alt="Triforce" style="width: 100%; height: auto;"></div> -->
-
-<!-- **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+                      
+<!-- **ryanshatch/ryanshatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
