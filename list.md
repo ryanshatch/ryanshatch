@@ -113,7 +113,14 @@
   <strong>&copy; 2023 Ryan Hatch</strong><br>
        All Rights Reserved.
 </p><br><br>
-  
+    <picture>
+      <div style="text-align">
+        <div align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg">
+          <img alt=" " src="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg" style="width: 100%; height: 50%;">
+        </div>
+      </div>
+    </picture>
 <div align="center">
   <h2><a id="zencrypt"></a><a href="https://github.com/ryanshatch/Zencrypt">Zencrypt</a></h2>
   <p>A tool for cryptographic operations such as hashing, encryption, and decryption.</p><br>
