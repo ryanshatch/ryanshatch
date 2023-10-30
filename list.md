@@ -47,95 +47,95 @@
      All Rights Reserved.
 </p>
 
-## Photo Editing Tools
+## <a id="photo-editing-tools"></a>[Photo Editing Tools](https://github.com/ryanshatch/Photo-Editing-Tools)
 Tools for cropping photos without paying money.
 
-## MyTube
+## <a id="mytube"></a>[MyTube](https://github.com/ryanshatch/MyTube)
 A Python script for downloading videos, audio, or entire playlists from YouTube using the yt_dlp library.
 
-## Rescue Manager
+## <a id="rescue-manager"></a>[Rescue Manager](https://github.com/ryanshatch/Rescue-Manager)
 A program designed to keep track of an inventory of dogs and cats in an animal rescue.
 
-## Zencrypt
+## <a id="zencrypt"></a>[Zencrypt](https://github.com/ryanshatch/Zencrypt)
 A tool for cryptographic operations such as hashing, encryption, and decryption.
 
-## Streams of Sorrow
+## <a id="streams-of-sorrow"></a>[Streams of Sorrow](https://github.com/ryanshatch/Streams-of-Sorrow)
 A Python script that displays a poem in English and Turkish about the sorrowful waterwheel, as a tribute to the ongoing conflict between Israel & Palestine.
 
-## A Love Unspoken
+## <a id="a-love-unspoken"></a>[A Love Unspoken](https://github.com/ryanshatch/A-Love-Unspoken)
 A program that pays homage to the culture and heritage of the land between the Jordan River and the Mediterranean Sea, offering a poetic tribute to its people.
 
-## Systems Analysis and Design
+## <a id="systems-analysis-and-design"></a>[Systems Analysis and Design](https://github.com/ryanshatch/Systems-Analysis-and-Design)
 The DriverPass project as a comprehensive solution to tackle the widespread issue of high failure rates among individuals attempting the DMV driving test.
 
-## Malware
+## <a id="malware"></a>[Malware](https://github.com/ryanshatch/Malware)
 An archive of malware files for educational purposes. The author is not responsible for any misuse or abuse of these files.
 
-## ryanshatch.github.io
+## <a id="ryanshatch-github-io"></a>[ryanshatch.github.io](https://github.com/ryanshatch/ryanshatch.github.io)
 The GitHub Pages repository for Ryan Hatch's personal website.
 
-## SWAG
+## <a id="swag"></a>[SWAG](https://github.com/ryanshatch/SWAG)
 A text-based word game programmed in Python.
 
-## Can You Even Triforce
+## <a id="can-you-even-triforce"></a>[Can You Even Triforce](https://github.com/ryanshatch/Can-You-Even-Triforce)
 This is a series of applications in java and python that design and draw out a beautiful Triforce.
 
-## Scam Bait
+## <a id="scam-bait"></a>[Scam Bait](https://github.com/ryanshatch/Scam-Bait)
 A repository dedicated to baiting scammers.
 
-## Inventory Tracker
+## <a id="inventory-tracker"></a>[Inventory Tracker](https://github.com/ryanshatch/Inventory-Tracker)
 A C++ application designed for tracking the inventory of a grocery store.
 
-## JAX-RS RESTful API
+## <a id="jax-rs-restful-api"></a>[JAX-RS RESTful API](https://github.com/ryanshatch/JAX-RS-RESTful-API)
 A Java project utilizing the Jersey API to streamline the creation of RESTful services.
 
-## SQL Queries
+## <a id="sql-queries"></a>[SQL Queries](https://github.com/ryanshatch/SQL-Queries)
 A collection of SQL queries and projects.
 
-## Web Dev Self Study Plan
+## <a id="web-dev-self-study-plan"></a>[Web Dev Self Study Plan](https://github.com/ryanshatch/Web-Dev-Self-Study-Plan)
 A public template for a self-study plan in web development.
 
-## Canvas Hair Co Security Assessment
+## <a id="canvas-hair-co-security-assessment"></a>[Canvas Hair Co Security Assessment](https://github.com/ryanshatch/CanvasHairCo-SecurityAssessment)
 A repository containing bugs and exploits found in the CanvasHairCo system.
 
-## Word Scrambler
+## <a id="word-scrambler"></a>[Word Scrambler](https://github.com/ryanshatch/Word-Scrambler)
 A program that rewrites user-provided text to create varied output resembling natural human writing.
 
-## flappy
+## <a id="flappy"></a>[flappy](https://github.com/ryanshatch/flappy)
 Flappy Bird [clone](https://ryanshatch.com/Flappy-Bird).
 
-## Seek the Seed
+## <a id="seek-the-seed"></a>[Seek the Seed](https://github.com/ryanshatch/Seek-the-Seed)
 A random number guessing game in Python.
 
-## Temperature Converter
+## <a id="temperature-converter"></a>[Temperature Converter](https://github.com/ryanshatch/Temperature-Converter)
 A C++ program that converts temperature data from Fahrenheit to Celsius.
 
-## Hangman.py
+## <a id="hangman-py"></a>[Hangman.py](https://github.com/ryanshatch/Hangman.py)
 The classic word-guessing game Hangman implemented in Python.
 
-## Name and Age Calculator
+## <a id="name-and-age-calculator"></a>[Name and Age Calculator](https://github.com/ryanshatch/Name-and-Age-Calculator)
 The Name and Age Calculator is a simple program created to prompt the user for their name and age, and calculates their birth year based on the current year.
 
-## Time Manager
+## <a id="time-manager"></a>[Time Manager](https://github.com/ryanshatch/Time-Manager)
 A C++ program that provides clock functionality with options to add hours, minutes, and seconds.
 
-## Budget Buddy
+## <a id="budget-buddy"></a>[Budget Buddy](https://github.com/ryanshatch/Budget-Buddy)
 A program that calculates the total cost of items and displays a summary of the purchase.
 
-## Investment Calculator
+## <a id="investment-calculator"></a>[Investment Calculator](https://github.com/ryanshatch/Investment-Calculator)
 An interest calculator application for Aegis Bank.
 
-## Solana PNL Calculator
+## <a id="solana-pnl-calculator"></a>[Solana PNL Calculator](https://github.com/ryanshatch/Solana-PNL-Calculator)
 A program that calculates the profit and loss of a Solana wallet.
 
-## Paint Calculator
+## <a id="paint-calculator"></a>[Paint Calculator](https://github.com/ryanshatch/Paint-Calculator)
 A Java program that calculates the amount of paint needed to cover a wall area.
 
-## Rubber Ducky
+## <a id="rubber-ducky"></a>[Rubber Ducky](https://github.com/ryanshatch/Rubber-Ducky)
 Turn a Raspberry Pico into a USB Rubber Ducky by dropping these files into the Picos storage.
 
-## Logme
+## <a id="logme"></a>[Logme](https://github.com/ryanshatch/Logme)
 This is a very basic keylogger that helps monitor keystrokes without any additional packages or installations other than Python.
 
-## Text Based Game
+## <a id="text-based-game"></a>[Text Based Game](https://github.com/ryanshatch/Text_Based_Game)
 S.W.A.G. (Scary Word Action Game) is an exciting word-based game where players explore a haunted house, collect crosses to defeat a ghost, and keep your home safe. The objective of the game is to defeat the ghost before losing all lives.
