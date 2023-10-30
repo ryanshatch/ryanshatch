@@ -17,7 +17,7 @@ Version: 2.5                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <p align="center">
       <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
-        <br> 🔐 Feel free to check out my website to learn more. 🔓
+        <br> 🔐 Feel free to check out my website or repositories to learn more. 🔓
     </p>
     <div align="center">
       <p>&darr;</p>
@@ -25,6 +25,9 @@ Version: 2.5                     ***********************************************
         <!--     <a href="https://ryanshatch.com/resume"><img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
         <a href="https://ryanshatch.com">
           <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
+        </a>
+        <a href="https://github.com/ryanshatch/ryanshatch/blob/main/list.md">
+          <img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos">
         </a>
         <a href="https://ryanshatch.com/Flappy-Bird">
           <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
