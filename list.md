@@ -102,7 +102,7 @@ A repository containing bugs and exploits found in the CanvasHairCo system.
 A program that rewrites user-provided text to create varied output resembling natural human writing.
 
 ## flappy
-A repository with no description provided.
+Flappy Bird [clone](https://ryanshatch.com/Flappy-Bird).
 
 ## Seek the Seed
 A random number guessing game in Python.
@@ -114,7 +114,7 @@ A C++ program that converts temperature data from Fahrenheit to Celsius.
 The classic word-guessing game Hangman implemented in Python.
 
 ## Name and Age Calculator
-A repository with no description provided.
+The Name and Age Calculator is a simple program created to prompt the user for their name and age, and calculates their birth year based on the current year.
 
 ## Time Manager
 A C++ program that provides clock functionality with options to add hours, minutes, and seconds.
