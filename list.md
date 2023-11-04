@@ -96,6 +96,7 @@
   <strong>Extra Programs:</strong><br><br>
   <a href="#streams-of-sorrow">Streams of Sorrow</a> •
   <a href="#a-love-unspoken">A Love Unspoken</a> •
+  <a href="#automatic-speech-recognition">Automatic Speech Recognition</a> •
   <a href="#word-scrambler">Word Scrambler</a> •
   <a href="#seek-the-seed">Seek the Seed</a> •
   <a href="#paint-calculator">Paint Calculator</a> •
@@ -190,6 +191,11 @@
 
   <h2><a id="a-love-unspoken"></a><a href="https://github.com/ryanshatch/A-Love-Unspoken">A Love Unspoken</a></h2>
   <p>A program that pays homage to the culture and heritage of the land between the Jordan River and the Mediterranean Sea, offering a poetic tribute to its people.</p><br>
+
+  <h2><a id="automatic-speech-recognition"></a><a href="https://github.com/ryanshatch/Automatic-Speech-Recognition">Automatic Speech Recognition</a></h2>
+  <p>A program with two different closed caption generators with speech recognition. Designed to get CC's for a Twitter Space with Sam Bankman Fried.</p><br>
+
+  https://github.com/ryanshatch/Automatic-Speech-Recognition
 
   <h2><a id="word-scrambler"></a><a href="https://github.com/ryanshatch/Word-Scrambler">Word Scrambler</a></h2>
   <p>A program that rewrites user-provided text to create varied output resembling natural human writing.</p><br>
