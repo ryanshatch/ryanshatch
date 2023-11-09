@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Oct 6th 2023       *******************************************************
-Version: 2.5                     *******************************************************
+Last Updated: Nov 9th 2023       *******************************************************
+Version: 2.6                     *******************************************************
 ****************************************************************************************
 -->
 <!DOCTYPE html>
@@ -31,7 +31,8 @@ Version: 2.5                     ***********************************************
         <a href="https://ryanshatch.com/Flappy-Bird">
           <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
         </a>
-        <h1></h1>
+        <hr>
+<!--        <h1></h1> -->
         <br>
       </div>
     </div>
@@ -43,7 +44,8 @@ Version: 2.5                     ***********************************************
         </div>
       </div>
     </picture>
-    <h1></h1>
+    <hr>
+    <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
     <p align="center">
       <!--   <h4 align="center">Programming:</h4><p align="center"> -->
@@ -79,8 +81,9 @@ Version: 2.5                     ***********************************************
       <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
       </a>
       <br>
-      <!--       <br> -->
-    <h1></h1>
+      <hr>
+    <!-- <br> -->
+    <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
     <p align="center">
     <h3 align="center" style="color: blue;">IDEs <h /3>
@@ -146,7 +149,8 @@ Version: 2.5                     ***********************************************
                       </a>
                       <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
                       <br>
-                    <h1></h1>
+                      <hr>
+                    <!-- <h1></h1> -->
                     <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
@@ -171,11 +175,12 @@ Version: 2.5                     ***********************************************
                           <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
                         </a>
                     </p>
-                    <h1></h1>
-                    <br>
+                    <hr>
+<!--                     <h1></h1> -->
+<!--                     <br> -->
                     <details>
                       <!-- GitHub Stats -->
-                      <summary align="center" style="color: white;">GitHub Stats</summary>
+                      <summary align="center" style="color: white;">GitHub Stats</summary><h1></h1>
                       <!-- Profile Details and Commits -->
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
@@ -210,14 +215,15 @@ Version: 2.5                     ***********************************************
                         <a href="https://github.com/ryanshatch">
                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
                         </a>
-                      </p>
+                      <!-- </p> -->
+                      <hr>
                       <picture>
                         <div align="center">
                           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
                           <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
                         </div>
                       </picture>
-                      <br>
+                      <h1></h1>
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
                           <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
