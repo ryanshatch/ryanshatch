@@ -32,7 +32,7 @@ Version: 2.6                     ***********************************************
           <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
         </a>
         <hr>
-<!--        <h1></h1> -->
+        <!--        <h1></h1> -->
         <br>
       </div>
     </div>
@@ -82,8 +82,8 @@ Version: 2.6                     ***********************************************
       </a>
       <br>
       <hr>
-    <!-- <br> -->
-    <!-- <h1></h1> -->
+      <!-- <br> -->
+      <!-- <h1></h1> -->
     <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
     <p align="center">
     <h3 align="center" style="color: blue;">IDEs <h /3>
@@ -150,7 +150,7 @@ Version: 2.6                     ***********************************************
                       <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
                       <br>
                       <hr>
-                    <!-- <h1></h1> -->
+                      <!-- <h1></h1> -->
                     <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
@@ -176,11 +176,12 @@ Version: 2.6                     ***********************************************
                         </a>
                     </p>
                     <hr>
-<!--                     <h1></h1> -->
-<!--                     <br> -->
+                    <!--                     <h1></h1> -->
+                    <!--                     <br> -->
                     <details>
                       <!-- GitHub Stats -->
-                      <summary align="center" style="color: white;">GitHub Stats</summary><h1></h1>
+                      <summary align="center" style="color: white;">GitHub Stats</summary>
+                      <h1></h1>
                       <!-- Profile Details and Commits -->
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
@@ -215,14 +216,14 @@ Version: 2.6                     ***********************************************
                         <a href="https://github.com/ryanshatch">
                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
                         </a>
-                      <!-- </p> -->
-                      <hr>
-                      <picture>
-                        <div align="center">
-                          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
-                          <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
-                        </div>
-                      </picture>
+                        <!-- </p> -->
+                        <hr>
+                        <picture>
+                          <div align="center">
+                            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 100%; height: auto">
+                            <img alt=" " src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg" style="width: 200%;">
+                          </div>
+                        </picture>
                       <h1></h1>
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
