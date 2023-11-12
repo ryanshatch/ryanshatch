@@ -48,11 +48,15 @@
   <a href="#time-manager">Time Manager</a> •
   <a href="#budget-buddy">Budget Buddy</a> •
   <a href="#flappy">flappy</a> •
-  <a href="#rubber-ducky">Rubber Ducky</a><h2></h2>
+  <a href="#rubber-ducky">Rubber Ducky</a>
+  <hr>
 <p align="center"><br>
   <strong>Top Projects:</strong><br><br>
   <a href="#canvas-hair-co-security-assessment">Canvas Hair Co Security Assessment</a> •
   <a href="#systems-analysis-and-design">Systems Analysis and Design</a> •
+  <a href="#sql-queries">List-Display</a> •
+  <a href="#sql-queries">Liquidation-Zones</a> •
+  <a href="#sql-queries">Twitter-2-CC</a> •
   <a href="#sql-queries">SQL Queries</a> •
   <a href="#scam-bait">Scam Bait</a> •
   <a href="#ryanshatch-github-io">ryanshatch.github.io</a> •
@@ -170,6 +174,15 @@
 
   <h2><a id="systems-analysis-and-design"></a><a href="https://github.com/ryanshatch/Systems-Analysis-and-Design">Systems Analysis and Design</a></h2>
   <p>The DriverPass project as a comprehensive solution to tackle the widespread issue of high failure rates among individuals attempting the DMV driving test.</p><br>
+
+  <h2><a id="List-Display"></a><a href="https://github.com/ryanshatch/List-Display"></a></h2>
+  <p>Java-based program that showcases a GUI application using Java Swing to display a list of top travel destinations with descriptions and images. The program is designed to be user-friendly and visually appealing, providing users with an immersive experience as they explore various travel destinations.</p><br>
+
+  <h2><a id="Liquidation-Zones"></a><a href="https://github.com/ryanshatch/Liquidation-Zones">Liquidation Zones TV Indicator</a></h2>
+  <p>The Liquidation Zones Indicator is a Pine Script tool for traders using the TradingView platform. It helps in identifying potential liquidation points in the market with real time updates and dynamic liquidation lines based off customizable settings via leverage.</p><br>
+
+  <h2><a id="Twitter-2-CC"></a><a href="https://github.com/ryanshatch/Twitter-2-CC">Twitter to Closed Captions</a></h2>
+  <p>Generate closed captions from an audio file in MP3 format. It converts the MP3 file to WAV format and then transcribes the audio to text.</p><br>
 
   <h2><a id="sql-queries"></a><a href="https://github.com/ryanshatch/SQL-Queries">SQL Queries</a></h2>
   <p>A collection of SQL queries and projects.</p><br>
