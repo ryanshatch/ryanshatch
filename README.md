@@ -215,7 +215,7 @@ Version: 2.6                     ***********************************************
                       <!-- Most Used Languages -->
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
-                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=13&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
+                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" style="width: 50%; height: 50%">
                         </a>
                         <!-- </p> -->
                         <hr>
