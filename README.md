@@ -15,7 +15,7 @@ Version: 2.6                     ***********************************************
   <body>
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <p align="center">
-      <br>Unfortunately, due to a series of cyber attacks and harrassment, I have removed the source code to most of my work. <br>If you want to view or work on a project I made, feel free to reach out for directions on how to open the project files. <br>
+      <br>Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files. <br>
     <h1></h1>
     <p align="center">
       <br>
