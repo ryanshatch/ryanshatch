@@ -146,6 +146,9 @@ Version: 2.6                     ***********************************************
                 <h3 align="center" style="color: blue;">Technologies <h /3>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
+                        <img src="https://img.shields.io/badge/Open-AI-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Parted Magic">
+                      </a>
+                      <a href="https://github.com/ryanshatch">
                         <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
                       </a>
                       <a href="https://github.com/ryanshatch">
