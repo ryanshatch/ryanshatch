@@ -141,6 +141,12 @@ Version: 2.6                     ***********************************************
             <h3 align="center" style="color: blue;">Front End Frameworks <h /3>
                 <p align="center">
                   <a href="https://github.com/ryanshatch">
+                    <img src="https://img.shields.io/badge/Python Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
+                  </a>
+                  <a href="https://github.com/ryanshatch">
+                    <img src="https://img.shields.io/badge/Java Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
+                  </a>
+                  <a href="https://github.com/ryanshatch">
                     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
                   </a>
                 <h3 align="center" style="color: blue;">Technologies <h /3>
