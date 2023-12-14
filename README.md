@@ -47,7 +47,7 @@ Version: 2.6                     ***********************************************
       <div style="text-align">
         <div align="center">
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg">
-          <img alt=" " src="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg" style="width: 75%; height: 50%;">
+          <img alt=" " src="https://github.com/ryanshatch/ryanshatch/blob/main/images/hhi.jpg" style="width: 75%; height: 50%;">
         </div>
       </div>
     </picture>
