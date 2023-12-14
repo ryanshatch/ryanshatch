@@ -2,7 +2,7 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Nov 9th 2023       *******************************************************
+Last Updated: Dec 14th 2023      *******************************************************
 Version: 2.6                     *******************************************************
 ****************************************************************************************
 -->
@@ -14,6 +14,10 @@ Version: 2.6                     ***********************************************
   </head>
   <body>
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
+    <p align="center">
+  <a href="https://ryanshatch.com"><img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20programmer.;I%20am%20a%20data%20analyst.;Addicted%20to%20machine learning.;Obsessed%20with%20cryptography.;Obsessed%20with%20data%20and%20security.;I%20am%20a%20passionate%20blue%20teamer.;I%20am%20a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=7EC8E3&vCenter=true&size=22&pause=1000"></a>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+</p>
     <p align="center">
       <br>Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files. <br>
     <h1></h1>
