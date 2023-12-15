@@ -14,6 +14,7 @@ Version: 2.6                     ***********************************************
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
+    <hr>
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am
     <p align="center">
@@ -22,7 +23,7 @@ Version: 2.6                     ***********************************************
 <!-- </p>
     <p align="center"> -->
     <br>
-    <h4 align="center" style="color: blue;">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</h4><br>
+    <p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</p>
     <h1></h1>
     <p align="center">
       <br>
