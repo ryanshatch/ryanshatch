@@ -18,8 +18,7 @@ Version: 2.6                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am
     <p align="center">
-  <a href="https://ryanshatch.com"><img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;passionate%20blue%20teamer.;versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=89CFF0&vCenter=true&size=22&pause=33"></a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></h2>         
+  <a href="https://ryanshatch.com"><img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;a%20passionate%20blue%20teamer.;a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=440&height=45&color=89CFF0&vCenter=true&size=22&pause=33"></h2>         
 <!-- </p>
     <p align="center"> -->
     <br>
