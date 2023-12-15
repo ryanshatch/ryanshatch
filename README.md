@@ -23,7 +23,7 @@ Version: 2.6                     ***********************************************
     <p align="center"> -->
     <br>
     <p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files.</p>
-    <h1></h1>
+    <hr>
     <p align="center">
       <br>
       <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
@@ -45,7 +45,20 @@ Version: 2.6                     ***********************************************
         <a href=mailto:ryan@rshatch.com>
           <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github">
         </a>
-        <hr>
+        <a href="https://ryanshatch.com">
+        </a>
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+<!--         <style>
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+        </style> -->
+<!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
         <!--        <h1></h1> -->
         <br>
       </div>
