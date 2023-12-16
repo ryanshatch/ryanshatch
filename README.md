@@ -86,8 +86,16 @@ Version: 2.6                     ***********************************************
         <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
       </a>
       <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=blue" alt="C #">
+      <a href="https://github.com/ryanshatch">
+        <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
       </a>
+      <a href="https://github.com/imaclone-sol">
+        <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
+      </a>
+      <a href="https://github.com/ryanshatch">
+        <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+      </a>
+<!--       </a> -->
       <br>
       <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
       <!-- Front End Languages -->
