@@ -182,7 +182,7 @@ Version: 2.6                     ***********************************************
                 <h3 align="center" style="color: blue;">Databases, Containerization, & Orchestration <h /3>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
-                        <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
+                        <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
                         <a href="https://github.com/ryanshatch">
                           <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
                         </a>
