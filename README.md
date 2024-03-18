@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Dec 14th 2023      *******************************************************
-Version: 2.6                     *******************************************************
+Last Updated: March 18 2024      *******************************************************
+Version: 3.0                     *******************************************************
 ****************************************************************************************
 -->
 
@@ -132,6 +132,17 @@ Version: 2.6                     ***********************************************
           <a href="https://github.com/ryanshatch">
             <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
           </a>
+          <h3 align="center" style="color: blue;">Front End Frameworks <h /3>
+        <p align="center">
+          <a href="https://github.com/ryanshatch">
+            <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
+          </a>
+          <a href="https://github.com/ryanshatch">
+            <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
+          </a>
+          <a href="https://github.com/ryanshatch">
+            <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
+          </a>
         <h3 align="center" style="color: blue;">Backend Frameworks for Python <h /3>
             <p align="center">
               <a href="https://github.com/ryanshatch">
@@ -141,7 +152,7 @@ Version: 2.6                     ***********************************************
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
               </a>
-              </a><br>
+              </a>
         <h4 align="center" style="color: blue;">Libraries <h /4>
             <p align="center">
               <a href="https://github.com/ryanshatch">
@@ -162,7 +173,7 @@ Version: 2.6                     ***********************************************
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
               </a>
-              </a><br>
+              </a>
         <h4 align="center" style="color: blue;">Libraries and APIs <h /4>
             <p align="center">
               <a href="https://github.com/ryanshatch">
@@ -175,17 +186,6 @@ Version: 2.6                     ***********************************************
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
               </a>
-            <h3 align="center" style="color: blue;">Front End Frameworks <h /3>
-                <p align="center">
-                  <a href="https://github.com/ryanshatch">
-                    <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
-                  </a>
-                  <a href="https://github.com/ryanshatch">
-                    <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
-                  </a>
-                  <a href="https://github.com/ryanshatch">
-                    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
-                  </a>
                 <h3 align="center" style="color: blue;">Databases, Containerization, & Orchestration <h /3>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
