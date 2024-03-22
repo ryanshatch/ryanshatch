@@ -196,23 +196,26 @@ Version: 3.0                     ***********************************************
                     <h3 align="center" style="color: blue;">Technologies <h /3>
                         <p align="center">
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/LLMs & AI-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Parted Magic">
+                            <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
                           </a>
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
                           </a>
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=blue" alt="Parted Magic">
+                            <img src="https://img.shields.io/badge/LLMs & AI-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Parted Magic">
+                        <p align="center">
+                          <a href="https://github.com/ryanshatch">
+                            <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
                           </a>
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue" alt="WireShark">
+                            <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
                           </a>
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=blue" alt="Dependency Check">
-                          </a>
-                          <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
-                          <br>
+                            <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
                           <hr>
+                          <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
+<!--                           <br>
+                          <hr> -->
                           <!-- <h1></h1> -->
                         <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
                         <p align="center">
