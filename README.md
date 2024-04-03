@@ -203,7 +203,7 @@ Version: 3.0                     ***********************************************
                             <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
                           </a>
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/LLMs & AI-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Parted Magic">
+                            <img src="https://img.shields.io/badge/Language Models-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
                         <p align="center">
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
