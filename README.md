@@ -199,9 +199,9 @@ Version: 3.0                     ***********************************************
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
                           </a>
-                          <a href="https://github.com/ryanshatch">
+                          <!-- <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
-                          </a>
+                          </a> -->
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/Language Models-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
                         <p align="center">
@@ -213,7 +213,36 @@ Version: 3.0                     ***********************************************
                           </a>
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
+                          <p align="center">
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
+                            </a>
                           <hr>
+                          <!-- Office Tools -->
+                    <h3 align="center" style="color: blue;">Office Tools</h3>
+                      <p align="center">
+                        <a href="https://github.com/ryanshatch">
+                          <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio" />
+                        </a>
+                        <a href="https://github.com/ryanshatch">
+                          <img src="https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=LibreOffice&logoColor=blue"
+                          alt="LibreOffice" />
+                        </a>
+                        <a href="https://github.com/ryanshatch">
+                          <img src="https://img.shields.io/badge/dependabot-black?style=for-the-badge&logo=dependabot&logoColor=blue" 
+                          alt="Dependabot" />
+                        </a>
+                        <a href="https://github.com/ryanshatch">
+                          <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" 
+                          alt="Microsoft PowerPoint" />
+                        </a>
+                      </p>
                           <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
 <!--                           <br>
                           <hr> -->
@@ -296,4 +325,45 @@ Version: 3.0                     ***********************************************
                             <a href="https://github.com/ryanshatch">
                               <img src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat" alt="Profile Views">
                             </a>
+                          <hr>
+                          <!-- Crypto -->
+                          <h4 align="center" style="color: blue;">Donate/ Buy me a coffee. :coffee:</h4>
+                          <p align="center">
+                            <a href="https://github.com/ryanshatch">
+                              <!-- <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" />
+                            </a> -->
+                            <a href="https://github.com/ryanshatch">
+                            <img src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAwMCAyMDAwIj4KICA8cGF0aCBkPSJNMTAwMCAyMDAwYzU1NC4xNyAwIDEwMDAtNDQ1LjgzIDEwMDAtMTAwMFMxNTU0LjE3IDAgMTAwMCAwIDAgNDQ1LjgzIDAgMTAwMHM0NDUuODMgMTAwMCAxMDAwIDEwMDB6IiBmaWxsPSIjMjc3NWNhIi8+CiAgPHBhdGggZD0iTTEyNzUgMTE1OC4zM2MwLTE0NS44My04Ny41LTE5NS44My0yNjIuNS0yMTYuNjYtMTI1LTE2LjY3LTE1MC01MC0xNTAtMTA4LjM0czQxLjY3LTk1LjgzIDEyNS05NS44M2M3NSAwIDExNi42NyAyNSAxMzcuNSA4Ny41IDQuMTcgMTIuNSAxNi42NyAyMC44MyAyOS4xNyAyMC44M2g2Ni42NmMxNi42NyAwIDI5LjE3LTEyLjUgMjkuMTctMjkuMTZ2LTQuMTdjLTE2LjY3LTkxLjY3LTkxLjY3LTE2Mi41LTE4Ny41LTE3MC44M3YtMTAwYzAtMTYuNjctMTIuNS0yOS4xNy0zMy4zMy0zMy4zNGgtNjIuNWMtMTYuNjcgMC0yOS4xNyAxMi41LTMzLjM0IDMzLjM0djk1LjgzYy0xMjUgMTYuNjctMjA0LjE2IDEwMC0yMDQuMTYgMjA0LjE3IDAgMTM3LjUgODMuMzMgMTkxLjY2IDI1OC4zMyAyMTIuNSAxMTYuNjcgMjAuODMgMTU0LjE3IDQ1LjgzIDE1NC4xNyAxMTIuNXMtNTguMzQgMTEyLjUtMTM3LjUgMTEyLjVjLTEwOC4zNCAwLTE0NS44NC00NS44NC0xNTguMzQtMTA4LjM0LTQuMTYtMTYuNjYtMTYuNjYtMjUtMjkuMTYtMjVoLTcwLjg0Yy0xNi42NiAwLTI5LjE2IDEyLjUtMjkuMTYgMjkuMTd2NC4xN2MxNi42NiAxMDQuMTYgODMuMzMgMTc5LjE2IDIyMC44MyAyMDB2MTAwYzAgMTYuNjYgMTIuNSAyOS4xNiAzMy4zMyAzMy4zM2g2Mi41YzE2LjY3IDAgMjkuMTctMTIuNSAzMy4zNC0zMy4zM3YtMTAwYzEyNS0yMC44NCAyMDguMzMtMTA4LjM0IDIwOC4zMy0yMjAuODR6IiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTc4Ny41IDE1OTUuODNjLTMyNS0xMTYuNjYtNDkxLjY3LTQ3OS4xNi0zNzAuODMtODAwIDYyLjUtMTc1IDIwMC0zMDguMzMgMzcwLjgzLTM3MC44MyAxNi42Ny04LjMzIDI1LTIwLjgzIDI1LTQxLjY3VjMyNWMwLTE2LjY3LTguMzMtMjkuMTctMjUtMzMuMzMtNC4xNyAwLTEyLjUgMC0xNi42NyA0LjE2LTM5NS44MyAxMjUtNjEyLjUgNTQ1Ljg0LTQ4Ny41IDk0MS42NyA3NSAyMzMuMzMgMjU0LjE3IDQxMi41IDQ4Ny41IDQ4Ny41IDE2LjY3IDguMzMgMzMuMzQgMCAzNy41LTE2LjY3IDQuMTctNC4xNiA0LjE3LTguMzMgNC4xNy0xNi42NnYtNTguMzRjMC0xMi41LTEyLjUtMjkuMTYtMjUtMzcuNXpNMTIyOS4xNyAyOTUuODNjLTE2LjY3LTguMzMtMzMuMzQgMC0zNy41IDE2LjY3LTQuMTcgNC4xNy00LjE3IDguMzMtNC4xNyAxNi42N3Y1OC4zM2MwIDE2LjY3IDEyLjUgMzMuMzMgMjUgNDEuNjcgMzI1IDExNi42NiA0OTEuNjcgNDc5LjE2IDM3MC44MyA4MDAtNjIuNSAxNzUtMjAwIDMwOC4zMy0zNzAuODMgMzcwLjgzLTE2LjY3IDguMzMtMjUgMjAuODMtMjUgNDEuNjdWMTcwMGMwIDE2LjY3IDguMzMgMjkuMTcgMjUgMzMuMzMgNC4xNyAwIDEyLjUgMCAxNi42Ny00LjE2IDM5NS44My0xMjUgNjEyLjUtNTQ1Ljg0IDQ4Ny41LTk0MS42Ny03NS0yMzcuNS0yNTguMzQtNDE2LjY3LTQ4Ny41LTQ5MS42N3oiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg=="/>
+                          <h1></h1>
+                          <p align="center">
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$Eth-black?style=for-the-badge&logo=Ethereum&logoColor=blue" alt="Ethereum" />
+                            </a>                           
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$btc-black?style=for-the-badge&logo=bitcoin&logoColor=blue" alt="Bitcoin" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$FTM-black?style=for-the-badge&logo=Fantom&logoColor=blue" alt="Fantom" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$usdt-black?style=for-the-badge&logo=tether&logoColor=blue" alt="Tether" />
+                            </a><br>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$doge-black?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Dogecoin" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/$LTC-black?style=for-the-badge&logo=Litecoin&logoColor=white" alt="Litecoin" />
+                            </a>
+
+                            <!-- <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" alt="Coinbase" />
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" alt="Blockchain.com" /> -->
+                            </a></a>
+                          </p>
+                          <hr>
                           </p>
