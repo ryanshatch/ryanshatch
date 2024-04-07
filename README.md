@@ -175,7 +175,7 @@ Version: 3.0                     ***********************************************
                 <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
               </a>
               </a>
-        <h4 align="center" style="color: blue;">Libraries and APIs <h/4>
+        <h4 align="center" style="color: blue;">Libraries & APIs <h/4>
             <p align="center">
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
@@ -187,6 +187,7 @@ Version: 3.0                     ***********************************************
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
               </a>
+              <h1></h1>
                 <h2 align="center" style="color: blue;">Databases, Containerization, & Orchestration <h/2>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
@@ -225,7 +226,7 @@ Version: 3.0                     ***********************************************
                               <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
                             </a>
                           <!-- Office Tools -->
-                    <h2 align="center" style="color: blue;">Office Tools: </h2>
+                    <h2 align="center" style="color: blue;">Office Tools: </ h2>
                       <p align="center">
                         <a href="https://github.com/ryanshatch">
                           <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio" />
@@ -247,18 +248,19 @@ Version: 3.0                     ***********************************************
 <!--                           <br>
                           <hr> -->
                           <!-- <h1></h1> -->
-                        <hr>
-                        <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </h1>
-                        <p align="center">
-                          <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
-                          </a>
-                          <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Apple">
-                          </a>
-                          <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
-                            <a href="https://github.com/ryanshatch"></a>
+<!--                         <hr> -->
+                        <h1 align="center" style="color: white;">▫️ Operating Systems & Platforms ▫️ </ h1>
+                          <p align="center">
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Apple">
+                            </a>
+                            <a href="https://github.com/ryanshatch">
+                              <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
+                            <a href="https://github.com/ryanshatch">
+                            </a>
                             <a href="https://github.com/ryanshatch">
                               <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
                             </a>
