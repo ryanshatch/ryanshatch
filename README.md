@@ -142,7 +142,7 @@ Version: 3.0                     ***********************************************
               <a href="https://github.com/ryanshatch">
                 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
               </a>
-            <h3 align="center" style="color: blue;">Backend Frameworks for Python <h /3>
+            <h3 align="center" style="color: blue;">Backend Frameworks for Python: <h /3>
                 <p align="center">
                   <a href="https://github.com/ryanshatch">
                     <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
@@ -152,7 +152,7 @@ Version: 3.0                     ***********************************************
                     <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
                   </a>
                   </a>
-                <h4 align="center" style="color: blue;">Libraries <h /4>
+                <h4 align="center" style="color: blue;">Libraries: <h /4>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
                         <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -164,7 +164,7 @@ Version: 3.0                     ***********************************************
                       </a>
                       </a>
                     <h1></h1>
-                    <h3 align="center" style="color: blue;">Backend Frameworks for Java <h /3>
+                    <h3 align="center" style="color: blue;">Backend Frameworks for Java: <h /3>
                         <p align="center">
                           <a href="https://github.com/ryanshatch">
                             <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache-Maven">
@@ -174,7 +174,7 @@ Version: 3.0                     ***********************************************
                             <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
                           </a>
                           </a>
-                        <h4 align="center" style="color: blue;">Libraries & APIs <h /4>
+                        <h4 align="center" style="color: blue;">Libraries & APIs: <h /4>
                             <p align="center">
                               <a href="https://github.com/ryanshatch">
                                 <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
@@ -186,16 +186,16 @@ Version: 3.0                     ***********************************************
                               <a href="https://github.com/ryanshatch">
                                 <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
                               </a>
-                            <h1></h1>
-                            <h2 align="center" style="color: blue;">Databases, Containerization, & Orchestration <h /2>
+                            <hr>
+                            <h2 align="center" style="color: blue;">▫️ Databases, Containerization, & Orchestration ▫️ </h2>
                                 <p align="center">
                                   <a href="https://github.com/ryanshatch">
                                     <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
                                     <a href="https://github.com/ryanshatch">
                                       <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
                                     </a>
-                                  </a>
-                                <h2 align="center" style="color: blue;">Technologies <h/2>
+                                  </a><hr>
+                                <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
                                     <p align="center">
                                       <a href="https://github.com/ryanshatch">
                                         <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
@@ -221,9 +221,9 @@ Version: 3.0                     ***********************************************
                                             </a>
                                             <a href="https://github.com/ryanshatch">
                                               <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
-                                            </a>
+                                            </a><hr>
                                             <!-- Office Tools -->
-                                            <h2 align="center" style="color: blue;">Office Tools: </h2>
+                                            <h2 align="center" style="color: blue;">▫️ Office Tools ▫️ </h2>
                                               <p align="center">
                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio" />
@@ -241,7 +241,7 @@ Version: 3.0                     ***********************************************
                                               <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
                                               <!--                           <br><hr> -->
                                               <!-- <h1></h1> -->
-                                              <!--                         <hr> -->
+                                            <hr>
                                             <h2 align="center" style="color: blue;">▫️ Operating Systems & Platforms ▫️ </h2>
 <!--                                             <h2> align="center" style="color: white;"> </h2>  --->
                                               <p align="center">
