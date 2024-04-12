@@ -1,5 +1,9 @@
-## Seed Phrases
+# Overview:
+
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+## Seed Phrases
+
 #### Knowing and understanding the difference between a Seed Phrases and Secret Recovery Phrases before you start trading or creating any type of offline storage, understanding the concepts of how these keys work are imperative because they foundations to your security and also serve as a back door or an alternative way to get into your wallets if you lose your password, or if Metamask was uninstalled and you lost all access to xyz (in this case, Metamask or Ledger) wallet.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
