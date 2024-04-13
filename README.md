@@ -22,7 +22,7 @@ Version: 3.0                     ***********************************************
     </h2>
     <!-- </p><p align="center"> -->
     <br>
-    <p align="center">Unfortunately, due to a series of cyber attacks I have removed the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files. </p>
+    <p align="center">Unfortunately, due to a series of cyber attacks I have removed or encrypted the source code to most of my work. <br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files. </p>
     <hr>
     <p align="center">
       <!--       <br> -->
