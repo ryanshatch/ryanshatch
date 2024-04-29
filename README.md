@@ -194,15 +194,17 @@ Version: 3.0                     ***********************************************
                                     <a href="https://github.com/ryanshatch">
                                       <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
                                     </a>
+                                    
+<a href="https://github.com/ryanshatch">
+                                        <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
+                                      </a>
+                                      <a href="https://github.com/ryanshatch">
+                                        <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
+                                    
                                   </a><hr>
                                 <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
                                     <p align="center">
-                                      <a href="https://github.com/ryanshatch">
-                                        <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
-                                      </a>
                                       <!-- <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi"></a> -->
-                                      <a href="https://github.com/ryanshatch">
-                                        <img src="https://img.shields.io/badge/Language Models-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
                                         <!-- <p align="center"> -->
                                         <a href="https://github.com/ryanshatch">
                                           <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
