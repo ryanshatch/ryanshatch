@@ -222,10 +222,8 @@ Version: 3.0                     ***********************************************
                                             <a href="https://github.com/ryanshatch">
                                               <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
                                             </a><hr>
-                                              
-                                      <!-- <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/raspberry pi-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi"></a> -->
-                                        <!-- <p align="center"> -->
-                                                                               <!-- Office Tools -->
+                                              <!-- <p align="center"> -->
+                                 <!-- Office Tools -->
                                             <h2 align="center" style="color: blue;">▫️ Office Tools ▫️ </h2>
                                               <p align="center">
                                                 <a href="https://github.com/ryanshatch">
