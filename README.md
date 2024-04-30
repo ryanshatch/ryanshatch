@@ -213,8 +213,11 @@ Version: 3.0                     ***********************************************
                                         <a href="https://github.com/ryanshatch">
                                           <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
                                           <p align="center">
-                                            <a href="https://github.com/ryanshatch">
-                                              <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
+                                        <a href="https://github.com/ryanshatch.com">
+                                            <img src="https://img.shields.io/badge/overleaf-black?style=for-the-badge&logo=OverLeaf&logoColor=blue" alt= "OverLeaf" />
+                                            </a>
+                                        <a href="https://github.com/ryanshatch">
+                                            <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
                                             </a>
                                             <a href="https://github.com/ryanshatch">
                                               <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
@@ -243,8 +246,7 @@ Version: 3.0                     ***********************************************
                                               <!--                           <br><hr> -->
                                               <!-- <h1></h1> -->
                                             <hr>
-                                            <h2 align="center" style="color: blue;">▫️ Operating Systems & Platforms ▫️ </h2>
-<!--                                             <h2> align="center" style="color: white;"> </h2>  --->
+                                            <h2 align="center" style="color: blue;">▫️ Operating Systems & Platforms ▫️ </h2> <!-- <h2> align="center" style="color: white;"> </h2>  --->
                                               <p align="center">
                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
