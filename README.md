@@ -377,8 +377,8 @@ Version: 3.0                     ***********************************************
                                                 USDC (ERC-20/ Ethereum): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
                                               </p></bold><hr>
                                               <h2></h2>
-                                              <h2 align="center" style="color: blue;">PGP Keys:</bold></h2><br>
-                                              <hr><br>
+                                              <h2 align="center" style="color: blue;">PGP Keys:</bold></h2>
+                                              <hr>
                                               <h4>Official Documentation Public Key:</h4><br>
                                               
                                               
@@ -405,7 +405,7 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-<hr><br>
+<hr>
 
 <h4>Mobile Posting Public Key:</h4>
 
