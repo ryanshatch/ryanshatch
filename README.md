@@ -376,61 +376,38 @@ Version: 3.0                     ***********************************************
                                                 USDT (ERC-20/ Ethereum): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
                                                 USDC (ERC-20/ Ethereum): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
                                               </p></bold><hr>
-                                              <h3 align="center" style="color: blue;">PGP Keys:</bold></h3>
-                                              <hr>
-                                              <h4>Primary Public Key</h4><br>
+                                              <h2></h2>
+                                              <h2 align="center" style="color: blue;">PGP Keys:</bold></h2><br>
+                                              <hr><br>
+                                              <h4>Official Documentation Public Key:</h4><br>
                                               
                                               
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: ObjectivePGP
-Comment: https://www.objectivepgp.com
-Charset: UTF-8
+Comment: User-ID:	ryanshatch <404@SHA-256.io>
+Comment: Valid from:	6/5/2024 10:02 AM
+Comment: Valid until:	7/5/2034 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	5668E82AF338E8055DDC5C45A60912A538771BE8
 
-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
-+5xlGmK7UZ/rNQG9
-=pSpQ
+
+mDMEZmBv/xYJKwYBBAHaRw8BAQdAxX25ugehwVFXO0RXXAjhqY/XT4t7h4MiexI5
+qf9HOkO0G3J5YW5zaGF0Y2ggPDQwNEBTSEEtMjU2LmlvPoiZBBMWCgBBFiEEVmjo
+KvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwMFCRL2ToEFCwkIBwICIgIGFQoJCAsC
+BBYCAwECHgcCF4AACgkQpgkSpTh3G+jmBgEAtBJJWSwEEPxtnIYELDBcnNZn5dgi
+qRqjGKiG5fczRVMA/03OgXikM2BHle1sGXneIfVBmj9A/wKmW2NvzR8POOYNuDgE
+ZmBv/xIKKwYBBAGXVQEFAQEHQPT/dy5ulGhJR76YA1eozuvL1lxrHdV8dqohwjbx
+ZApLAwEIB4h+BBgWCgAmFiEEVmjoKvM46AVd3FxFpgkSpTh3G+gFAmZgb/8CGwwF
+CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
+6sYeS2gA/0FBWfNmkj2ZjhMmJIf55Xvc30737XUiauiB901nrVQD
+=KnH6
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 <hr><br>
 
-<h4>Mobile Public Key:</h4>
+<h4>Mobile Posting Public Key:</h4>
 
 ##
                                               
@@ -482,4 +459,33 @@ kQi7PpK0dluCtHdK7Zxf7aE4GgmK4WmLNKHsrb/B27xZNGm8xn4wS4Q5z2RETIO4/JIkxHlOCnjz
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
+<hr>
+
+<h4>Primary Dev Public Key:</h4>
+
+##
+                                              
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	ryanshatch <jeyito6409@olpame.com>
+Comment: Valid from:	6/27/2024 5:08 AM
+Comment: Valid until:	6/27/2025 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+Comment: Fingerprint:	289539423551D1281D5BC489D2769C47831CC612
+
+
+mDMEZn0r+RYJKwYBBAHaRw8BAQdAh/VRyT053kxkaoi4iG1CDcRbrxbJo69Xf3UY
+gKA38aS0InJ5YW5zaGF0Y2ggPGpleWl0bzY0MDlAb2xwYW1lLmNvbT6ImQQTFgoA
+QRYhBCiVOUI1UdEoHVvEidJ2nEeDHMYSBQJmfSv5AhsjBQkB4ZQHBQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJENJ2nEeDHMYSz6oBAKlJIrUockzeuKtAiSym
+eTrZ1DGT1WsxzGTboTmPEm1DAP4gVVT2HbMG0YHg+B4Sjxihylf/+WiufGggYqQo
+oqicC7g4BGZ9K/kSCisGAQQBl1UBBQEBB0B7k7/EwJs9HUlErLxQ1CEn1UIc9fiF
+FlCMQ7nFiDI/bQMBCAeIfgQYFgoAJhYhBCiVOUI1UdEoHVvEidJ2nEeDHMYSBQJm
+fSv5AhsMBQkB4ZQHAAoJENJ2nEeDHMYSOIAA/2b1lelKLVsDCe8zGqkqyVWz/xJ0
+zUmDzH6zjJ/17YB4APwM5e9Id/Jf3R1wSSoZFeT7VPY/WBO4loa32tI+oTr+Cg==
+=+tKN
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 <hr>
