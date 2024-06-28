@@ -369,12 +369,12 @@ Version: 3.3                     ***********************************************
                                               <hr>
                                               <h4 align="center" style="color: blue;"><bold> Wallets:</bold></h4>
                                               <p align="center">
-                                                Solana: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code><br>
-                                                Eth     <code>0x2855d11e643f8ABB0F9fCE47068C3561f3014330</code><br>
-                                                Bitcoin: <code>bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv</code><br>
-                                                Fantom: <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
-                                                USDT (ERC-20/ Ethereum): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
-                                                USDC (ERC-20/ Ethereum): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code><br>
+                                                <li>$sol: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code></li>
+                                                <li>$eth: <code>0x2855d11e643f8ABB0F9fCE47068C3561f3014330</code></li>
+                                                <li>$btc: <code>bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv</code></li>
+                                                <li>$ftm: <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
+                                                <li>$usdt - (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
+                                                <li>$usdc - (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
                                               </p></bold><hr>
                                               <h2></h2>
                                               <h2 align="center" style="color: blue;">PGP Keys:</bold></h2>
