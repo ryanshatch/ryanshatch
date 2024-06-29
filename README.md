@@ -377,7 +377,7 @@ Version: 3.3                     ***********************************************
                                                 <li>$usdc - (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
                                               </p></bold><hr>
                                               <h2></h2>
-                                              <h2 align="center" style="color: blue;">PGP Keys:</bold></h2>
+                                              <h2 align="center" style="color: blue;">PGP Keys:<br><br></bold></h2>
                                               <hr>
                                               <h4>Official Documentation Public Key:</h4><br>
                                               
