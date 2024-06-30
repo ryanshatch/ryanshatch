@@ -341,7 +341,7 @@ Version: 3.3                     ***********************************************
                                                       <a href="https://github.com/ryanshatch">
                                                         <img src="https://img.shields.io/badge/$Eth-black?style=for-the-badge&logo=Ethereum&logoColor=blue" alt="Ethereum" />
                                                       </a>
-                                                      <a href="https://github.com/ryanshatch">
+                                                      <a href="https://solscan.io/account/777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
                                                         <img src="https://img.shields.io/badge/$sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
                                                       </a>
                                                       <a href="https://github.com/ryanshatch">
