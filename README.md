@@ -325,7 +325,7 @@ Version: 3.3                     ***********************************************
                                                 </a>
                                                 <hr>
                                                 <!-- Crypto -->
-                                              <h3 align="center" style="color: blue;"If youve made it this far, please consider buying me a cup of coffee or a small donation to support my work.</h3>
+                                              <h3 align="center" style="color: blue;">If youve made it this far, please consider buying me a cup of coffee or a small donation to support my work.</h3>
                                               <p align="center">
                                                 <a href="https://ko-fi.com/ryanshatch">
                                                   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi"><hr>
