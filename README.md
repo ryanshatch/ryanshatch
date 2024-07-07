@@ -28,6 +28,8 @@ Version: 3.3                     ***********************************************
       <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
         <br>🔐 Feel free to check out my website or repositories to learn more. 🔓
     </p> -->      <!--       <br> -->
+    <p align="center">
+      📘 I have my Assocites degree  in Computer Science w concentration in security++ & I love any and everything that is cyber security. 📘<br>🔐 Feel free to check out my website or repositories to learn more. 🔓
     <div align="center">
       <p>&darr;</p>
 <!--       <div> -->
