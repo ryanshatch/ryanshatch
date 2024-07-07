@@ -18,18 +18,19 @@ Version: 3.3                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am <p align="center">
         <a href="https://ryanshatch.com">
-          <img src="https://readme-typing-svg.demolab.com/?lines=a%20programmer.;a%20data%20analyst.;addicted%20to%20machine learning.;obsessed%20with%20cryptography.;obsessed%20with%20data%20and%20security.;a%20passionate%20blue%20teamer.;a%20versatile%20specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+          <img src="https://readme-typing-svg.demolab.com/?lines=A%20CS%20Graduate.;A%20programmer.;A%20data%20analyst.;Addicted%20to%20machine learning.;Obsessed%20with%20cryptography.;Obsessed%20with%20data%20and%20security.;A%20passionate%20blue%20teamer.;A%20Versatile%20specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
     </h2>
     <!-- </p><p align="center"> -->
 <!--     <br> -->
-    <p align="center">Unfortunately, due to a series of cyber attacks I have removed or encrypted the source code to most of my work. <br><br>If you want to view or work on a project that I made, feel free to reach out for directions on how to open the project files. </p>
+    <p align="center">
+      📘 I have my Assocites degree in Computer Science w a concentration in security++ 📘<br>I love any and everything that is cyber security.<br>
+      <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
+    <p align="center">Unfortunately, due to a series of targeted exploits and cyber attacks I have added a layer of PGP encryption to most of my work. <br><br>🔐 If you want to view or help to work on a project that I have made, by all means, feel free to reach out for directions on how to decrypt, verify, and open any of my signed and protected projects. 🔓</p>
 <!--     <hr> -->
     <!-- <p align="center">
       <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
         <br>🔐 Feel free to check out my website or repositories to learn more. 🔓
     </p> -->      <!--       <br> -->
-    <p align="center">
-      📘 I have my Assocites degree  in Computer Science w concentration in security++ & I love any and everything that is cyber security. 📘<br>🔐 Feel free to check out my website or repositories to learn more. 🔓
     <div align="center">
       <p>&darr;</p>
 <!--       <div> -->
