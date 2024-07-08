@@ -18,7 +18,7 @@ Version: 3.3                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am <p align="center">
         <a href="https://ryanshatch.com">
-          <img src="https://readme-typing-svg.demolab.com/?lines=A%20CS%20Graduate.;A%20programmer.;A%20data%20analyst.;Addicted%20to%20machine learning.;Obsessed%20with%20cryptography.;Obsessed%20with%20data%20and%20security.;A%20passionate%20blue%20teamer.;A%20Versatile%20specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+          <img src="https://readme-typing-svg.demolab.com/?lines=A%20Programmer.;A%20Data%20Analyst.;Profficient%20With%20LM's%20and%20LLMs.;A%20Blue%20Teamer.;Fluent%20In%20Offensive%20Defence.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
     </h2>
     <!-- </p><p align="center"> -->
 <!--     <br> -->
