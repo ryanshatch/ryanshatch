@@ -23,7 +23,7 @@ Version: 3.3                     ***********************************************
     <!-- </p><p align="center"> -->
 <!--     <br> -->
     <p align="center">
-      <br><b>📘 With my Assocites degree in Computer Science w a concentration in security++ 📘<br>I love anything and everything that is or is related to cyber security.</b><br>
+      <br><b>📘 Assocites degree in Computer Science w a concentration in security++ 📘<br>I love anything and everything that is or is related to cyber security.</b><br>
       <h2></h2>
       <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
     <p align="center"><i>🔐 Unfortunately, due to a series of targeted exploits and cyber attacks I have added a layer of PGP encryption to most of my work.<br>If you want to view or help to work on a project that I have made, by all means, feel free to reach out for directions on how to decrypt, verify, and open any of my signed and protected projects. 🔓</i></p>
