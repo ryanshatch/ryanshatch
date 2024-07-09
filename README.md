@@ -126,6 +126,7 @@ Version: 3.3                     ***********************************************
     <h2 align="center" style="color: blue;">IDEs: <h /2>
         <p align="center">
           <a href="https://github.com/ryanshatch">
+<!--             https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label -->
             <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
           </a>
           </a>
@@ -494,3 +495,6 @@ zUmDzH6zjJ/17YB4APwM5e9Id/Jf3R1wSSoZFeT7VPY/WBO4loa32tI+oTr+Cg==
 ```
 
 <hr>
+<!--
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+-->
