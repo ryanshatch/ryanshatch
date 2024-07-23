@@ -74,7 +74,7 @@ Version: 3.3                     ***********************************************
     </picture>
     <hr>
     <p align="center">
-    <b><i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives.<br><br>This is a VERY quick and simple process; PLEASE do not hesitate to reach out.<br>I will provide you with everything needed to decrypt and verify all of the sig files from the signed archive.</b></i><br>
+    <b><i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives.<br><br>All .pgp files will be signed individually along with an archive of all files in one that can be verified with my public keys. I will always provide SHA256 chechsums to validate the authenticity.</b></i><br>
     <hr></p>
     <p align="center">
     <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match.</i>
