@@ -22,7 +22,8 @@ Version: 3.3                     ***********************************************
     <!-- </p><p align="center"> -->
 <!--     <br> -->
     <p align="center">
-      <br><b>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘<br>Im pursuing a bachelors degree to target working with anything in terms of data security and the offensive- defensive operations.<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>
+      <br><b>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘<br>Im pursuing a bachelors degree to target working with anything in terms of data security and  offensive- defensive operations.
+        <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
       <h2></h2>
       <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
     <!-- <p align="center"><i>🔐 Unfortunately, due to a series of targeted exploits and cyber attacks I have added a layer of PGP encryption to most of my work.<br>If you want to view or help to work on a project that I have made, by all means, feel free to reach out for directions on how to decrypt, verify, and open any of my signed and protected projects. 🔓</i></p> -->
