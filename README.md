@@ -394,9 +394,10 @@ Version: 3.3                     ***********************************************
                                               <h2></h2>
                                               <h2 align="center" style="color: blue;">PGP Keys:<br><br></bold></h2>
                                               <hr>
-                                              <h4>Official Documentation Public Key:</h4><br>
+                                              <h4>Official Documentation Public Key:</h4>
                                               
-                                              
+##
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	ryanshatch <404@SHA-256.io>
