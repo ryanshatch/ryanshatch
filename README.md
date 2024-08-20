@@ -18,7 +18,9 @@ Version: 3.3                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am <p align="center">
         <a href="https://ryanshatch.com">
-          <img src="https://readme-typing-svg.demolab.com/?lines=A%20Programmer.;A%20Data%20Analyst.;Profficient%20With%20LM's%20and%20LLMs.;A%20Blue%20Teamer.;Fluent%20In%20Offensive%20Defence.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+<!--           <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"><br>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20In%20Offensive%20Defence.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"> -->
+            <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
     </h2>
     <!-- </p><p align="center"> -->
 <!--     <br> -->
@@ -35,6 +37,9 @@ Version: 3.3                     ***********************************************
     </p> -->      <!--       <br> -->
     <div align="center">
       <p>&darr;</p>
+        <img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+<!--       ;Fluent%20in%20Ethical%20Hacking.;Fluent%20in%20Software%20Architecture%20Design.;Fluent%20in%20Vulnerability%20Assessment. -->
+      <br>
 <!--       <div> -->
         <!--     <a href="https://ryanshatch.com/resume"><img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
         <a href="https://ryanshatch.com">
