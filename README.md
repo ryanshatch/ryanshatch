@@ -6,7 +6,6 @@ Last Updated: July 15th 2024     ***********************************************
 Version: 3.3                     *******************************************************
 ****************************************************************************************
 -->
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -18,45 +17,44 @@ Version: 3.3                     ***********************************************
     <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
     <h2 align="center" style="color: blue;">I am <p align="center">
         <a href="https://ryanshatch.com">
-<!--           <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"><br>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20In%20Offensive%20Defence.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"> -->
-            <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+          <!--           <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"><br><img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20In%20Offensive%20Defence.;%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
     </h2>
     <!-- </p><p align="center"> -->
-<!--     <br> -->
+    <!--     <br> -->
     <p align="center">
-      <br><b>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘<br>Im pursuing a bachelors degree to target working with anything in terms of data security and  offensive- defensive operations.
-        <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
-      <h2></h2>
-      <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
-    <!-- <p align="center"><i>🔐 Unfortunately, due to a series of targeted exploits and cyber attacks I have added a layer of PGP encryption to most of my work.<br>If you want to view or help to work on a project that I have made, by all means, feel free to reach out for directions on how to decrypt, verify, and open any of my signed and protected projects. 🔓</i></p> -->
-<!--     <hr> -->
-    <!-- <p align="center">
-      <b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br>
-        <br>🔐 Feel free to check out my website or repositories to learn more. 🔓
-    </p> -->      <!--       <br> -->
-    <div align="center">
-      <p>&darr;</p>
-        <img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
-<!--       ;Fluent%20in%20Ethical%20Hacking.;Fluent%20in%20Software%20Architecture%20Design.;Fluent%20in%20Vulnerability%20Assessment. -->
       <br>
-<!--       <div> -->
-        <!--     <a href="https://ryanshatch.com/resume"><img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
-        <a href="https://ryanshatch.com">
-          <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
-        </a>
-        <a href="https://github.com/ryanshatch/ryanshatch/blob/main/list.md">
-          <img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos">
-        </a>
-        <a href="https://ryanshatch.com/Flappy-Bird">
-          <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
-        </a>
-        <a href=mailto:ryan@rshatch.com>
-          <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github">
-        </a>
-        <a href="https://ryanshatch.com"></a>
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
-        <!--         <style>
+      <b>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘 <br>Im pursuing a bachelors degree to target working with anything in terms of data security and offensive- defensive operations.
+        <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
+        <h2></h2>
+        <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
+        <!-- <p align="center"><i>🔐 Unfortunately, due to a series of targeted exploits and cyber attacks I have added a layer of PGP encryption to most of my work.<br>If you want to view or help to work on a project that I have made, by all means, feel free to reach out for directions on how to decrypt, verify, and open any of my signed and protected projects. 🔓</i></p> -->
+        <!--     <hr> -->
+        <!-- <p align="center"><b>📘 I am a CS student and am obsessed with everything that is cyber security. 📘 <br><br>🔐 Feel free to check out my website or repositories to learn more. 🔓
+    </p> -->
+        <!--       <br> -->
+        <div align="center">
+          <p>&darr;</p>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+          <!--       ;Fluent%20in%20Ethical%20Hacking.;Fluent%20in%20Software%20Architecture%20Design.;Fluent%20in%20Vulnerability%20Assessment. -->
+          <br>
+          <!--       <div> -->
+          <!--     <a href="https://ryanshatch.com/resume"><img src="https://img.shields.io/badge/Resume:_-ryanshatch.me-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie"></a> -->
+          <a href="https://ryanshatch.com">
+            <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
+          </a>
+          <a href="https://github.com/ryanshatch/ryanshatch/blob/main/list.md">
+            <img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos">
+          </a>
+          <a href="https://ryanshatch.com/Flappy-Bird">
+            <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
+          </a>
+          <a href=mailto:ryan@rshatch.com>
+            <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github">
+          </a>
+          <a href="https://ryanshatch.com"></a>
+          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; height: 50%; animation: spin 300s linear infinite;">
+          <!--         <style>
           @keyframes spin {
             0% {
               transform: rotate(0deg);
@@ -66,188 +64,213 @@ Version: 3.3                     ***********************************************
             }
           }
         </style> -->
-        <!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
-        <!--        <h1></h1> -->
-        <br>
-      </div>
-    </div>
-    <picture>
-      <div style="text-align">
-        <div align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg">
-          <img alt=" " src="https://github.com/ryanshatch/ryanshatch/blob/main/images/hhi.jpg" style="width: 75%; height: 50%;">
+          <!-- https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif -->
+          <!--        <h1></h1> -->
+          <br>
         </div>
-      </div>
-    </picture>
-    <hr>
-    <p align="center">
-    <b><i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives.<br><br>All .pgp files will be signed individually along with an archive of all files in one that can be verified with my public keys. I will always provide SHA256 chechsums to validate the authenticity.</b></i><br>
-    <hr></p>
-    <p align="center">
-    <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match.</i>
-    <br></p>
-    <p align="center"><li><b>public key:</b> <code>ryanshatch</code><br></p>
-    <p align="center"><li><b>Fingerprint:</b> <code>5668E82AF338E8055DDC5C45A60912A538771BE8</code></p>
-    <hr>
-    <!-- <h1></h1> -->
-    <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
-    <p align="center">
-      <!--   <h4 align="center">Programming:</h4><p align="center"> -->
-      <!-- Back end Languages -->
-      <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-      </a>
-      <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
-      </a>
-      <a href="https://github.com/ryanshatch">
-        <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
-      </a>
-      <a href="https://github.com/ryanshatch">
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
-        </a>
-        <a href="https://github.com/imaclone-sol">
-          <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
-        </a>
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
-        </a>
-        <!--       </a> -->
-        <br>
-        <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
-        <!-- Front End Languages -->
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        </a>
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        </a>
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
-        </a>
-        <a href="https://github.com/ryanshatch">
-          <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
-        </a>
-        <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS"><a href="https://github.com/ryanshatch">   -->
-        <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
-      </a>
-      <br>
-      <hr>
-      <!-- <br> -->
-      <!-- <h1></h1> -->
-    <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
-    <p align="center">
-    <h2 align="center" style="color: blue;">IDEs: <h /2>
+        </div>
+        <picture>
+          <div style="text-align">
+            <div align="center">
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg">
+              <img alt=" " src="https://github.com/ryanshatch/ryanshatch/blob/main/images/hhi.jpg" style="width: 75%; height: 50%;">
+            </div>
+          </div>
+        </picture>
+        <hr>
         <p align="center">
+          <b>
+            <i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives. <br>
+              <br>All .pgp files will be signed individually along with an archive of all files in one that can be verified with my public keys. I will always provide SHA256 chechsums to validate the authenticity. </b>
+          </i>
+          <br>
+          <hr>
+        </p>
+        <p align="center">
+          <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match. </i>
+          <br>
+        </p>
+        <p align="center">
+          <li>
+            <b>public key:</b>
+            <code>ryanshatch</code>
+            <br>
+        </p>
+        <p align="center">
+          <li>
+            <b>Fingerprint:</b>
+            <code>5668E82AF338E8055DDC5C45A60912A538771BE8</code>
+        </p>
+        <hr>
+        <!-- <h1></h1> -->
+        <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
+        <p align="center">
+          <!--   <h4 align="center">Programming:</h4><p align="center"> -->
+          <!-- Back end Languages -->
           <a href="https://github.com/ryanshatch">
-<!--             https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label -->
-            <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
-          </a>
+            <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
           </a>
           <a href="https://github.com/ryanshatch">
-            <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
+            <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
           </a>
           <a href="https://github.com/ryanshatch">
-            <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
+            <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
           </a>
-        <h2 align="center" style="color: blue;">Front End Frameworks: <h /2>
+          <a href="https://github.com/ryanshatch">
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C #">
+            </a>
+            <a href="https://github.com/imaclone-sol">
+              <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
+            </a>
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+            </a>
+            <!--       </a> -->
+            <br>
+            <!--     <h4 align="center">Web Development:</h4><p align="center"> -->
+            <!-- Front End Languages -->
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+            </a>
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </a>
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+            </a>
+            <a href="https://github.com/ryanshatch">
+              <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
+            </a>
+            <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML"></a><a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS"><a href="https://github.com/ryanshatch">   -->
+            <!--   <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL"> -->
+          </a>
+          <br>
+          <hr>
+          <!-- <br> -->
+          <!-- <h1></h1> -->
+        <h1 align="center" style="color: white;">▫️ Technologies & Frameworks ▫️ </h1>
+        <p align="center">
+        <h2 align="center" style="color: blue;">IDEs: <h /2>
             <p align="center">
               <a href="https://github.com/ryanshatch">
-                <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
+                <!--             https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label -->
+                <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
+              </a>
               </a>
               <a href="https://github.com/ryanshatch">
-                <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
+                <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
               </a>
               <a href="https://github.com/ryanshatch">
-                <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
+                <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
               </a>
-            <h3 align="center" style="color: blue;">Backend Frameworks for Python: <h /3>
+            <h2 align="center" style="color: blue;">Front End Frameworks: <h /2>
                 <p align="center">
                   <a href="https://github.com/ryanshatch">
-                    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
-                  </a>
+                    <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
                   </a>
                   <a href="https://github.com/ryanshatch">
-                    <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
+                    <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="JavaSwing">
                   </a>
+                  <a href="https://github.com/ryanshatch">
+                    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
                   </a>
-                <h4 align="center" style="color: blue;">Libraries: <h /4>
+                <h3 align="center" style="color: blue;">Backend Frameworks for Python: <h /3>
                     <p align="center">
                       <a href="https://github.com/ryanshatch">
-                        <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+                        <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
                       </a>
                       </a>
-                      <!-- <h1></h1> -->
                       <a href="https://github.com/ryanshatch">
-                        <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+                        <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
                       </a>
                       </a>
-                    <h1></h1>
-                    <h3 align="center" style="color: blue;">Backend Frameworks for Java: <h /3>
+                    <h4 align="center" style="color: blue;">Libraries: <h /4>
                         <p align="center">
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache-Maven">
+                            <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
                           </a>
                           </a>
+                          <!-- <h1></h1> -->
                           <a href="https://github.com/ryanshatch">
-                            <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
+                            <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
                           </a>
                           </a>
-                        <h4 align="center" style="color: blue;">Libraries & APIs: <h /4>
+                        <h1></h1>
+                        <h3 align="center" style="color: blue;">Backend Frameworks for Java: <h /3>
                             <p align="center">
                               <a href="https://github.com/ryanshatch">
-                                <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
-                              </a>
-                              <a href="https://github.com/ryanshatch">
-                                <img src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+                                <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache-Maven">
                               </a>
                               </a>
                               <a href="https://github.com/ryanshatch">
-                                <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
+                                <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
                               </a>
-                            <hr>
-                            <h2 align="center" style="color: blue;">▫️ Databases, Containerization, & Orchestration ▫️ </h2>
+                              </a>
+                            <h4 align="center" style="color: blue;">Libraries & APIs: <h /4>
+                                <p align="center">
+                                  <a href="https://github.com/ryanshatch">
+                                    <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey">
+                                  </a>
+                                  <a href="https://github.com/ryanshatch">
+                                    <img src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+                                  </a>
+                                  </a>
+                                  <a href="https://github.com/ryanshatch">
+                                    <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
+                                  </a>
+                                  <hr>
+                                <h2 align="center" style="color: blue;">▫️ Databases, Containerization, & Orchestration ▫️ </h2>
                                 <p align="center">
                                   <a href="https://github.com/ryanshatch">
                                     <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
                                     <a href="https://github.com/ryanshatch">
                                       <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
-                                    </a>
-                                    
-<a href="https://github.com/ryanshatch">
-                                        <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
-                                      </a>
                                       <a href="https://github.com/ryanshatch">
-                                        <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
-                                    
-</a><hr>
-                                  <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
-                                    <p align="center">
-<a href="https://github.com/ryanshatch">
-                                          <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
+                                        <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=blue" alt="MongoDB">
+                                      </a>
+                                    </a>
+                                    <a href="https://github.com/ryanshatch">
+                                      <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
+                                    </a>
+                                    <a href="https://github.com/ryanshatch">
+                                      <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
+                                      <a href="https://github.com/ryanshatch">
+                                        <img src="https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=opengl&logoColor=blue" alt="OpenGL">
+                                        <a href="https//github.com/ryanshatch">
+                                          <img src="https://img.shields.io/badge/travis%20ci-black?style=for-the-badge&logo=travis&logoColor=blue" alt="Travis CI">
+                                          <a href="https://github.com/ryanshatch">
+                                            <img src="https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android%20studio&logoColor=blue" alt="Android Studio">
+                                          </a>
                                         </a>
-                                        <a href="https://github.com/ryanshatch">
-                                          <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
-                                        </a>
-                                        <a href="https://github.com/ryanshatch">
-                                          <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
-                                          <p align="center">
-                                        <a href="https://github.com/ryanshatch.com">
-                                            <img src="https://img.shields.io/badge/overleaf-black?style=for-the-badge&logo=OverLeaf&logoColor=blue" alt= "OverLeaf" />
-                                            </a>
-                                        <a href="https://github.com/ryanshatch">
-                                            <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
-                                            </a>
-                                            <a href="https://github.com/ryanshatch">
-                                              <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
-                                            </a>
-                                            <a href="https://github.com/ryanshatch">
-                                              <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
-                                            </a><hr>
+                                        <hr>
+                                        <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
+                                        <p align="center">
+                                          <a href="https://github.com/ryanshatch">
+                                            <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
+                                          </a>
+                                          <a href="https://github.com/ryanshatch">
+                                            <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
+                                          </a>
+                                          <a href="https://github.com/ryanshatch">
+                                            <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="Dependency Check">
+                                            <p align="center">
+                                              <a href="https://github.com/ryanshatch.com">
+                                                <img src="https://img.shields.io/badge/overleaf-black?style=for-the-badge&logo=OverLeaf&logoColor=blue" alt="OverLeaf" />
+                                              </a>
+                                              <a href="https://github.com/ryanshatch">
+                                                <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva" />
+                                              </a>
+                                              <a href="https://github.com/ryanshatch">
+                                                <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma" />
+                                              </a>
+                                              <a href="https://github.com/ryanshatch">
+                                                <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure" />
+                                              </a>
+                                              <hr>
                                               <!-- <p align="center"> -->
-                                 <!-- Office Tools -->
-                                            <h2 align="center" style="color: blue;">▫️ Office Tools ▫️ </h2>
+                                              <!-- Office Tools -->
+                                              <h2 align="center" style="color: blue;">▫️ Office Tools ▫️ </h2>
                                               <p align="center">
                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio" />
@@ -262,6 +285,10 @@ Version: 3.3                     ***********************************************
                                                   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" alt="Microsoft PowerPoint" />
                                                 </a>
                                               </p>
+                                              <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
+                                              <!--                           <br><hr> -->
+                                              <!-- <h1></h1> -->
+<!--                                               <hr> -->
                                               <!--           <a href="https://github.com/ryanshatch"><img src="https://img.shields.io/badge/parted-magic-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic"></a></p> -->
                                               <!--                           <br><hr> -->
                                               <!-- <h1></h1> -->
