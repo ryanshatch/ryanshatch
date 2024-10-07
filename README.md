@@ -49,7 +49,7 @@ Version: 3.3                     ***********************************************
           <a href="https://ryanshatch.com/Flappy-Bird">
             <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
           </a>
-          <a href=mailto:ryan@rshatch.com>
+          <a href=mailto:ryanshatch@protonmail.com>
             <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github">
           </a>
           <a href="https://ryanshatch.com"></a>
