@@ -239,8 +239,8 @@ Version: 3.3                     ***********************************************
                                       <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
                                     </a>
                                     <a href="https://github.com/ryanshatch">
-                                      <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
-                                      <a href="https://github.com/ryanshatch">
+<!--                                       <img src="https://img.shields.io/badge/LMs & LLMs-black?style=for-the-badge&logo=OpenAI&logoColor=blue" alt="Language Models">
+                                      <a href="https://github.com/ryanshatch"> -->
                                         <img src="https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=opengl&logoColor=blue" alt="OpenGL">
                                         <a href="https//github.com/ryanshatch">
                                           <img src="https://img.shields.io/badge/travis%20ci-black?style=for-the-badge&logo=travis&logoColor=blue" alt="Travis CI">
@@ -283,9 +283,9 @@ Version: 3.3                     ***********************************************
                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=LibreOffice&logoColor=blue" alt="LibreOffice" />
                                                 </a>
-                                                <a href="https://github.com/ryanshatch">
+<!--                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/dependabot-black?style=for-the-badge&logo=dependabot&logoColor=blue" alt="Dependabot" />
-                                                </a>
+                                                </a> -->
                                                 <a href="https://github.com/ryanshatch">
                                                   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" alt="Microsoft PowerPoint" />
                                                 </a>
