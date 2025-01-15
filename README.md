@@ -48,9 +48,9 @@ Version: 3.3                     ***********************************************
           <a href="https://ryanshatch.com">
             <img src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi" alt="opsec junkie">
           </a>
-          <a href="https://github.com/ryanshatch/ryanshatch/blob/main/list.md">
+<!--           <a href="https://github.com/ryanshatch/ryanshatch/blob/main/list.md">
             <img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos">
-          </a>
+          </a> -->
           <a href="https://ryanshatch.com/Flappy-Bird">
             <img src="http://img.shields.io/badge/Sandbox:_-Flappy%20Bird-blue?style=flat-square&logo=Playstation" alt="Github">
           </a>
