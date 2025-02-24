@@ -36,6 +36,10 @@ Version: 3.3                     ***********************************************
         <div align="center">
           <p>&darr;</p>
             <p align="center">
+              <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+              <img src="https://img.shields.io/badge/tip me in $solana-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+            </a>
+            <br><br>
             <a href="https://app.codecov.io/gh/Full-Stack-Development" title="Code Coverage"><img alt="Code Coverage" src="https://img.shields.io/codecov/c/gh/discord-modmail/modmail/main?logo=codecov&amp;style=flat&amp;label=Code+Coverage"></a>
             <a href="https://www.codacy.com/gh/Full-Stack-Development/dashboard" title="Codacy Grade"><img alt="Codacy Grade" src="https://img.shields.io/codacy/grade/78be21a49835484595aea556d5920638?logo=codacy&amp;style=flat&amp;label=Code+Quality"></a>
             <a href="https://github.com/psf/black" title="The uncompromising python formatter"><img alt="Code Style" src="https://img.shields.io/static/v1?label=Code%20Style&amp;message=black&amp;color=000000&amp;style=flat"></a>
