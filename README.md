@@ -38,6 +38,8 @@ Version: 3.3                     ***********************************************
             <p align="center">
               <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
               <img src="https://img.shields.io/badge/tip me-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+              <a href="https://phantom.com/user/imaclone>
+              <img src="https://img.shields.io/badge/follow me-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
             </a>
             <br><br>
             <a href="https://app.codecov.io/gh/Full-Stack-Development" title="Code Coverage"><img alt="Code Coverage" src="https://img.shields.io/codecov/c/gh/discord-modmail/modmail/main?logo=codecov&amp;style=flat&amp;label=Code+Coverage"></a>
