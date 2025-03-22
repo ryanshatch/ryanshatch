@@ -24,7 +24,7 @@ Version: 3.3                     ***********************************************
     <!--     <br> -->
     <p align="center">
       <br>
-      <b>📘 I have my associates degree in Computer Science w/ a concentration in information security++ 📘 <br>Im pursuing a bachelors degree to target working with anything in terms of data security and offensive- defensive operations.
+      <b>📘 I have my bachelors degree in Computer Science w/ a concentration in information security++ 📘 <br>Im pursuing a bachelors degree to target working with anything in terms of data security and offensive- defensive operations.
         <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
         <h2></h2>
         <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
