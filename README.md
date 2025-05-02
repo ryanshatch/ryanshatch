@@ -24,7 +24,7 @@ Version: 3.3                     ***********************************************
     <!--     <br> -->
     <p align="center">
       <br>
-      <b>📘 BA in Computer Science w/ a concentration in information security++ 📘 <br>Open to working with anything that is IoT or cyber, especially tailored towards data security and offensive- defensive operations.
+      <b>📘 BS in Computer Science w/ a concentration in information security++ 📘 <br>Open to working with anything that is IoT or cyber, especially tailored towards data security and offensive- defensive operations.
         <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
         <h2></h2>
         <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
