@@ -91,30 +91,6 @@ Version: 3.3                     ***********************************************
           </div>
         </picture>
         <hr>
-        <p align="center">
-          <b>
-            <i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives. <br>
-              <br>All .pgp files will be signed individually along with an archive of all files in one that can be verified with my public keys. I will always provide SHA256 chechsums to validate the authenticity. </b>
-          </i>
-          <br>
-          <hr>
-        </p>
-        <p align="center">
-          <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match. </i>
-          <br>
-        </p>
-        <p align="center">
-          <li>
-            <b>public key:</b>
-            <code>ryanshatch</code>
-            <br>
-        </p>
-        <p align="center">
-          <li>
-            <b>Fingerprint:</b>
-            <code>5668E82AF338E8055DDC5C45A60912A538771BE8</code>
-        </p>
-        <hr>
         <!-- <h1></h1> -->
         <h1 align="center" style="color: white;">▫️ Programming Languages ▫️ </h1>
         <p align="center">
@@ -496,6 +472,31 @@ zUmDzH6zjJ/17YB4APwM5e9Id/Jf3R1wSSoZFeT7VPY/WBO4loa32tI+oTr+Cg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+<hr>
+  
+<p align="center">
+<b>
+  <i>Please send me a message on Github, email, or text if you would like to decrypt any of the signed and encrypted archives. <br>
+    <br>All .pgp files will be signed individually along with an archive of all files in one that can be verified with my public keys. I will always provide SHA256 chechsums to validate the authenticity. </b>
+</i>
+<br>
+<hr>
+</p>
+<p align="center">
+<i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match. </i>
+<br>
+</p>
+<p align="center">
+<li>
+  <b>public key:</b>
+  <code>ryanshatch</code>
+  <br>
+</p>
+<p align="center">
+<li>
+  <b>Fingerprint:</b>
+  <code>5668E82AF338E8055DDC5C45A60912A538771BE8</code>
+</p>
 <hr>
 <!--
 [![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
