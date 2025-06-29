@@ -24,7 +24,7 @@ Version: 3.3                     ***********************************************
     <!--     <br> -->
     <p align="center">
       <br>
-      <b>📘 BS in Computer Science w/ a concentration in information security++ 📘 <br>Open to working with anything that is IoT or cyber, especially tailored towards data security and offensive- defensive operations.
+      <b>📘 BS in Computer Science w/ a concentration in information security++ 📘 <br>Open to working with anything that is IoT especially tailored towards analytics, data, security, and offensive defensive operations.
         <!--<br><br>I am a CS graduate and I love anything and everything that is or is related to cyber security.</b><br>-->
         <h2></h2>
         <!-- 🔐 Feel free to check out my website or repositories to learn more. 🔓 -->
@@ -37,7 +37,7 @@ Version: 3.3                     ***********************************************
           <p>&darr;</p>
             <p align="center">
               <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-              <img src="https://img.shields.io/badge/tip me-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+              <img src="https://img.shields.io/badge/Tip me using $Sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
             </a>
 <!--             <p align="center">
               <a href="https://phantom.com/user/imaclone">
