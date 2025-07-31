@@ -55,7 +55,7 @@ Version: 3.3                     ***********************************************
             </a>
             <a href="https://github.com/psf/black" title="The uncompromising python formatter"><img alt="Code Style" src="https://img.shields.io/static/v1?label=Code%20Style&amp;message=black&amp;color=000000&amp;style=flat"></a>
           </p>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Web2%20and%20Web3%20cyber%20and%20analytics.;Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Web2%20and%20Web3%20cyber%20and%20analytics.;Fluent%20in%20Offensive%20Defense.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
           <!--       ;Fluent%20in%20Ethical%20Hacking.;Fluent%20in%20Software%20Architecture%20Design.;Fluent%20in%20Vulnerability%20Assessment. -->
           <br>
           <!--       <div> -->
