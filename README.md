@@ -236,7 +236,7 @@ Version: 3.3                     ***********************************************
                                         <h2 align="center" style="color: blue;">▫️ Technologies ▫️ </h2>
                                         <p align="center">
                                           <a href="https://github.com/ryanshatch">
-                                            <img src="https://img.shields.io/badge/Parted Magic-black?style=for-the-badge&logo=Tor Browser&logoColor=white" alt="Parted Magic">
+                                            <img src="https://img.shields.io/badge/Parted%20Magic-black?style=for-the-badge&logo=linux&logoColor=white" alt="Parted Magic">
                                           </a>
                                           <a href="https://github.com/ryanshatch">
                                             <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
