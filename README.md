@@ -44,8 +44,15 @@ Version: 3.3                     ***********************************************
               <img src="https://img.shields.io/badge/follow me-black?style=for-the-badge&logo=solana&logoColor=blue" alt="sol" />
             </a> -->
             <br><br>
-            <a href="https://app.codecov.io/gh/Full-Stack-Development" title="Code Coverage"><img alt="Code Coverage" src="https://img.shields.io/codecov/c/gh/discord-modmail/modmail/main?logo=codecov&amp;style=flat&amp;label=Code+Coverage"></a>
-            <a href="https://www.codacy.com/gh/Full-Stack-Development/dashboard" title="Codacy Grade"><img alt="Codacy Grade" src="https://img.shields.io/codacy/grade/78be21a49835484595aea556d5920638?logo=codacy&amp;style=flat&amp;label=Code+Quality"></a>
+            <a href="https://app.codecov.io/gh/Full-Stack-Development" title="Code Coverage">
+              <img alt="Code Coverage"
+                   src="https://img.shields.io/static/v1?label=Code+Coverage&message=90%25&color=brightgreen&style=flat&logo=codecov&logoColor=white">
+            </a>
+            <a href="https://www.codacy.com/gh/Full-Stack-Development/dashboard" title="Codacy Grade">
+              <img
+                alt="Code Quality"
+                src="https://img.shields.io/static/v1?label=Code+Quality&message=A&color=brightgreen&style=flat&logo=codacy&logoColor=white">
+            </a>
             <a href="https://github.com/psf/black" title="The uncompromising python formatter"><img alt="Code Style" src="https://img.shields.io/static/v1?label=Code%20Style&amp;message=black&amp;color=000000&amp;style=flat"></a>
           </p>
           <img src="https://readme-typing-svg.demolab.com/?lines=Web2%20and%20Web3%20cyber%20and%20analytics.;Fluent%20in%20Offensive%20Defence.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.;&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33">
