@@ -67,7 +67,7 @@ Version: 3.3                     ***********************************************
             <img src="http://img.shields.io/badge/Projects:_-Organized List-blue?style=flat-square&logo=xbox" alt="Repos">
           </a> -->
           <a href="https://zencrypt.app">
-            <img src="http://img.shields.io/badge/Sandbox:_-Zencrypt-blue?style=flat-square&logo=Playstation" alt="Github">
+            <img src="http://img.shields.io/badge/Capstone:_-Zencrypt-blue?style=flat-square&logo=Playstation" alt="Github">
           </a>
           <a href=mailto:ryanshatch@protonmail.com>
             <img src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger" alt="Github">
