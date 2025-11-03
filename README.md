@@ -37,7 +37,7 @@ Version: 3.3                     ***********************************************
           <p>&darr;</p>
             <p align="center">
               <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-              <img src="https://img.shields.io/badge/Tip me using $Sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+              <img src="https://img.shields.io/badge/Tip me-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
             </a>
 <!--             <p align="center">
               <a href="https://phantom.com/user/imaclone">
