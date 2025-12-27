@@ -373,17 +373,17 @@ Version: 3.3                     ***********************************************
       >
     </a>
   </p>
-
+<!---
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=transparent&exclude_repo=Inventory-Tracker"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=github_dark"
         alt="Top Languages"
         style="width: 50%; height: 50%;"
       >
     </a>
   </p>
-
+-->
   <hr>
 
   <picture>
