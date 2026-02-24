@@ -425,7 +425,7 @@ Version: 3.3                     ***********************************************
 
 <hr>
 
-<h2 align="center" style="color: blue;">Send Cryptocurrency Donations Here ☕</h2>
+<!-- <h2 align="center" style="color: blue;">Send Cryptocurrency Donations Here ☕</h2>
 <h5 align="center" style="color: blue;">
   👇 Select the native token for any of the below ecosystems. 👇
 </h5>
@@ -474,7 +474,7 @@ Version: 3.3                     ***********************************************
   </ul>
 </p>
 
-<hr>
+<hr> -->
 
 <h2 align="center" style="color: blue;">PGP Keys:</h2>
 
