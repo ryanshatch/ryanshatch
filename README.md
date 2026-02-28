@@ -71,20 +71,26 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://ryanshatch.com">
       <img
-        src="https://img.shields.io/badge/Portfolio:_-ryanshatch.com-blue?style=flat-square&logo=Raspberry%20Pi"
+        src="https://img.shields.io/badge/Web2 Portfolio:_-ryanshatch-blue?style=flat-square&logo=Raspberry%20Pi"
         alt="Portfolio"
       >
     </a>
-    <a href="https://zencrypt.app">
+    <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/Capstone:_-Zencrypt-blue?style=flat-square&logo=Playstation"
-        alt="Zencrypt Capstone"
+        src="http://img.shields.io/badge/CS Capstone:_-Zencrypt-blue?style=flat-square&logo=Playstation"
+        alt="CS-Capstone"
       >
     </a>
     <a href="mailto:ryanshatch@protonmail.com">
       <img
-        src="http://img.shields.io/badge/Email:_-Reach%20Out-blue?style=flat-square&logo=Messenger"
-        alt="Email"
+        src="http://img.shields.io/badge/Email:_-ryanshatch@protonmail.com-blue?style=flat-square&logo=Messenger"
+        alt="Email Me"
+      >
+    </a>
+    <a href="https://imacl.one">
+      <img
+        src="https://img.shields.io/badge/Web3 Portfolio:_-0ximaclone-blue?style=flat-square&logo=Raspberry%20Pi"
+        alt="Portfolio"
       >
     </a>
   </p>
@@ -337,10 +343,7 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark"
-        alt="Profile Details"
-      >
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
     </a>
   </p>
 
