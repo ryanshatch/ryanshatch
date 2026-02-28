@@ -75,15 +75,22 @@ Version: 3.3                     ***********************************************
         alt="Portfolio"
       >
     </a>
+    <a href="https://zencrypt.app">
+      <img
+        src="http://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
+        alt="Capstone"
+      >
+    </a>
+    </a>
     <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/CS Capstone:_-Zencrypt-blue?style=flat-square&logo=Playstation"
-        alt="CS-Capstone"
+        src="http://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
+        alt="solsprites"
       >
     </a>
     <a href="mailto:ryanshatch@protonmail.com">
       <img
-        src="http://img.shields.io/badge/Email:_-ryanshatch@protonmail.com-blue?style=flat-square&logo=Messenger"
+        src="http://img.shields.io/badge/Email:_-Protonmail-blue?style=flat-square&logo=Messenger"
         alt="Email Me"
       >
     </a>
