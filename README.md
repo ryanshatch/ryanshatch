@@ -77,20 +77,19 @@ Version: 3.3                     ***********************************************
     </a>
     <a href="https://zencrypt.app">
       <img
-        src="http://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
+        src="https://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
         alt="Capstone"
       >
     </a>
-    </a>
     <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
+        src="https://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
         alt="solsprites"
       >
     </a>
     <a href="mailto:ryanshatch@protonmail.com">
       <img
-        src="http://img.shields.io/badge/Email:_-Protonmail-blue?style=flat-square&logo=Messenger"
+        src="https://img.shields.io/badge/Email:_-Protonmail-blue?style=flat-square&logo=Messenger"
         alt="Email Me"
       >
     </a>
@@ -111,19 +110,19 @@ Version: 3.3                     ***********************************************
   </p>
 </div>
 
-<picture>
-  <div align="center">
+<div align="center">
+  <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ryanshatch/ryanshatch.github.io/blob/main/hhi.jpg"
+      srcset="https://raw.githubusercontent.com/ryanshatch/ryanshatch.github.io/main/hhi.jpg"
     >
     <img
       alt="Header image"
-      src="https://github.com/ryanshatch/ryanshatch/blob/main/images/hhi.jpg"
+      src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/images/hhi.jpg"
       style="width: 75%; height: 50%;"
     >
-  </div>
-</picture>
+  </picture>
+</div>
 
 <hr>
 
@@ -350,20 +349,20 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=github_dark&utcOffset=8"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=github_dark&utcOffset=8"
         alt="Productive Time"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=github_dark"
         alt="Stats"
       >
     </a>
@@ -372,13 +371,13 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS"
         alt="Repos per Language"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS"
         alt="Most Commit Language"
       >
     </a>
@@ -396,8 +395,8 @@ Version: 3.3                     ***********************************************
 -->
   <hr>
 
-  <picture>
-    <div align="center">
+  <div align="center">
+    <picture>
       <source
         media="(prefers-color-scheme: dark)"
         srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
@@ -408,8 +407,8 @@ Version: 3.3                     ***********************************************
         src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
         style="width: 200%;"
       >
-    </div>
-  </picture>
+    </picture>
+  </div>
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
