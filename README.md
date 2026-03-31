@@ -115,11 +115,11 @@ Version: 3.3                     ***********************************************
   <div align="center">
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2022/09/09/cyber-triad-1.png?itok=YxYYlqq6"
+      srcset="https://github.com/ryanshatch/ryanshatch/blob/main/images/CIA.png"
     >
     <img
       alt="Header image"
-      src="https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2022/09/09/cyber-triad-1.png?itok=YxYYlqq6"
+      src="https://github.com/ryanshatch/ryanshatch/blob/main/images/CIA.png"
       style="width: 75%; height: 50%;"
     >
   </div>
