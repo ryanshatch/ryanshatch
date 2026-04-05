@@ -63,7 +63,7 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Web2/3%20cyber%20and%20analytics.;Fluent%20in%20Offensive%20Defense.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"
+      src="https://readme-typing-svg.demolab.com/?lines=Web2/3%20cyber%20and%20analytics.;Fluent%20in%20Cyber%20Security.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"
       alt="Skill typing banner"
     >
   </p>
