@@ -111,22 +111,6 @@ Version: 3.3                     ***********************************************
   </p>
 </div>
 
-<picture>
-  <div align="center">
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ryanshatch/ryanshatch/blob/main/images/CIA.png"
-    >
-    <img
-      alt="Header image"
-      src="https://github.com/ryanshatch/ryanshatch/blob/main/images/CIA.png"
-      style="width: 75%; height: 50%;"
-    >
-  </div>
-</picture>
-
-<hr>
-
 <h1 align="center" style="color: white;">▫️ Programming Languages ▫️</h1>
 
 <p align="center">
