@@ -29,11 +29,17 @@ Version: 3.3                     ***********************************************
 </p>
 
 <div align="center">
-  <p>&darr;</p>
+  <!-- <p>&darr;</p> -->
   <!-- <hr> -->
   <p align="center">
-  <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-  <img src="https://img.shields.io/badge/tip me in $S◎LANA-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aab402">
+  <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
+  <img src="https://img.shields.io/badge/tip me in $S◎LANA-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" /><br>
+        <p>&darr;</p>
+  <strong>Currently the Solscan’s Action endpoint is either down, slow, blocking Dialect, or returning non-compliant metadata/CORS</strong>
+  <br>
+      <block>Thus, for a temporary work around, if you want to tip me for my work my wallet address is: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</block></code><br>
+          <block>Or you can send it to my SNS domain: <code>burner.imaclone.sol</block></code>
 </a>
 <br><hr>
 
