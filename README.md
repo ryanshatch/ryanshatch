@@ -369,13 +369,13 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude_repo=CSS"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark"
         alt="Repos per Language"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark&exclude=CSS"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark"
         alt="Most Commit Language"
       >
     </a>
