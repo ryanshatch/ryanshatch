@@ -29,11 +29,14 @@ Version: 3.3                     ***********************************************
 </p>
 
 <p align="center">
-  <a href="https://audius.co/djc4ndym4n/never-seen-again" target="_blank" rel="noopener noreferrer">
+  <a href="https://audius.co/djc4ndym4n/never-seen-again">
     <img
       alt="I also like to produce music"
-      src="https://img.shields.io/badge/I%20also%20enjoy%20music%20production-black?style=for-the-badge&logo=audius&logoColor=89CFF0"
+      src="https://img.shields.io/badge/IM A CLONE - Audius-black?style=for-the-badge&logo=audius&logoColor=89CFF0"
     />
+  </a>
+    <a href="https://music.apple.com/us/song/pinwheels/1587299485">
+    <img src="https://img.shields.io/badge/IM A CLONE - Apple Music-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
   </a>
 </p>
 
