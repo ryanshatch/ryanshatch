@@ -28,6 +28,15 @@ Version: 3.3                     ***********************************************
   </b>
 </p>
 
+<p align="center">
+  <a href="https://audius.co/djc4ndym4n/never-seen-again" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="I also like to produce music"
+      src="https://img.shields.io/badge/I%20also%20enjoy%20music%20production-black?style=for-the-badge&logo=audius&logoColor=89CFF0"
+    />
+  </a>
+</p>
+
 <div align="center">
   <!-- <p>&darr;</p> -->
   <!-- <hr> -->
