@@ -113,13 +113,6 @@ Version: 3.3                     ***********************************************
         alt="Email Me"
       >
     </a>
-    <a href="https://imacl.one">
-      <img
-        src="https://img.shields.io/badge/Web3 Portfolio:_-0ximaclone-blue?style=flat-square&logo=Raspberry%20Pi"
-        alt="Portfolio"
-      >
-    </a>
-  </p>
 
   <p align="center">
     <img
