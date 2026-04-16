@@ -30,7 +30,7 @@ Version: 3.3                     ***********************************************
 
 <p align="center">
     <a href="https://music.apple.com/us/song/pinwheels/1587299485">
-    <img src="https://img.shields.io/badge/IM A CLONE - Apple Music-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
+    <img src="https://img.shields.io/badge/Apple - Music-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
   </a>
 </p>
 
