@@ -338,7 +338,7 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=github_dark&hide_border=true&card_width=338"
+        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=338"
         alt="Streak Stats"
       >
     </a>
@@ -346,20 +346,20 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=github_dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry" alt="Profile Details">
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=github_dark&utcOffset=8"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=blueberry&utcOffset=8"
         alt="Productive Time"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=github_dark"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
         alt="Stats"
       >
     </a>
@@ -368,13 +368,13 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=github_dark"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=blueberry"
         alt="Repos per Language"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=github_dark"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=blueberry"
         alt="Most Commit Language"
       >
     </a>
