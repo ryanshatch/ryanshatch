@@ -33,6 +33,7 @@ Version: 3.3                     ***********************************************
     <img src="https://img.shields.io/badge/Apple - Music-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
   </a>
 </p>
+<hr>
 
 <div align="center">
   <!-- <p>&darr;</p> -->
