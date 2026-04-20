@@ -338,7 +338,7 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ryanshatch&hide_border=true&card_width=338&theme=github_dark"
+        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=github_dark&hide_border=true&card_width=338"
         alt="Streak Stats"
       >
     </a>
