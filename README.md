@@ -511,3 +511,23 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 =KnH6
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+<hr>
+
+<h3 align="center" style="color: blue;">Project Access Notice</h3>
+
+<p align="center">
+  Some older repositories and archived project files may still contain
+  <code>.pgp</code> files or other encrypted project assets from a previous workflow.
+</p>
+
+<p align="center">
+  I am currently decrypting and reviewing older projects as I work through them,
+  and in many cases, that layer is no longer necessary.
+</p>
+
+<p align="center">
+  If you come across encrypted files in a repository and need access before I have updated it,
+  please message me and I can prioritize that repo.
+</p>
+
+<hr>
