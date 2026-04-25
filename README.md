@@ -333,8 +333,8 @@ Version: 3.3                     ***********************************************
 
 <hr>
 
-<h2><details>
-  <summary align="center" style="color: white;">GitHub Stats</summary></h2><br>
+<details>
+  <h2><summary align="center" style="color: white;">GitHub Stats</summary></h2><br>
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
