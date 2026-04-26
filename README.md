@@ -15,7 +15,7 @@ Version: 3.3                     ***********************************************
 <p align="center">
   <a href="https://ryanshatch.com">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Specialist.%20&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"
+      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Tech%20Nerd.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
       alt="Typing roles"
     >
   </a>
@@ -39,7 +39,7 @@ Version: 3.3                     ***********************************************
   <!-- <p>&darr;</p> -->
   <!-- <hr> -->
   <p align="center">
-    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aab402">
+    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aaf7d4%26cluster%3Dmainnet%26destination%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N%26message%3DThank%2520you%2520for%2520your%2520kind%2520support%2521%2520Any%2520tip%2520is%2520appreciated.%26source%3D7KFnSPTQe5xYwYyQpCCvD6KJ1yk1xMsbJwtyPaUVxYf3" target="_blank" rel="noopener noreferrer">
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" /><br>
         <p>&darr;</p>
@@ -83,7 +83,7 @@ Version: 3.3                     ***********************************************
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Data%20Analytics.;Fluent%20in%20Cyber%20Security.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Cloud%20Computing.;Fluent%20in%20Machine%20Learning.;Fluent%20in%20Penetration%20Testing.;Fluent%20in%20DevOps%20Practices.;Fluent%20in%20Incident%20Response.;Fluent%20in%20Threat%20Hunting.;Fluent%20in%20Network%20Security.;Fluent%20in%20Agile%20Methods.;Fluent%20in%20IoT%20Security.&font=Fira%20Code&center=true&width=360&height=42&color=89CFF0&vCenter=true&size=18&pause=33"
+      src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Data%20Analytics.;Fluent%20in%20Cyber%20Security.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Python.;Fluent%20in%20JavaScript.;Fluent%20in%20Java.;Fluent%20in%20C%2B%2B.;Fluent%20in%20Rust.;Fluent%20in%20Solidity.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
       alt="Skill typing banner"
     >
   </p>
@@ -340,62 +340,79 @@ Version: 3.3                     ***********************************************
   <br>
 
   <div align="center">
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
-        alt="GitHub Streak Stats"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
-        alt="GitHub Profile Details"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
-        alt="Productive Time"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-        alt="GitHub Stats"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
-        alt="Repos per Language"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
-        alt="Most Commit Language"
-      >
-    </a>
-    <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        width="684"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
-        alt="Most Used Languages"
-      >
-    </a>
-    <br><br>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=336"
+              alt="GitHub Streak Stats"
+            >
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
+              alt="GitHub Profile Details"
+            >
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
+              alt="Productive Time"
+            >
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
+              alt="GitHub Stats"
+            >
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
+              alt="Repos per Language"
+            >
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
+              alt="Most Commit Language"
+            >
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <a href="https://github.com/ryanshatch">
+            <img
+              width="684"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
+              alt="Most Used Languages"
+            >
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
 </details>
   <hr>
@@ -463,7 +480,7 @@ Version: 3.3                     ***********************************************
   </a>
   <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
     <img
-      src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAwMCAyMDAwIj4KICA8cGF0aCBkPSJNMTAwMCAyMDAwYzU1NC4xNyAwIDEwMDAtNDQ1LjgzIDEwMDAtMTAwMFMxNTU0LjE3IDAgMTAwMCAwIDAgNDQ1LjgzIDAgMTAwMHM0NDUuODMgMTAwMCAxMDAwIDEwMDB6IiBmaWxsPSIjMjc3NWNhIi8+CiAgPHBhdGggZD0iTTEyNzUgMTE1OC4zM2MwLTE0NS44My04Ny41LTE5NS44My0yNjIuNS0yMTYuNjYtMTI1LTE2LjY3LTE1MC01MC0xNTAtMTA4LjM0czQxLjY3LTk1LjgzIDEyNS05NS44M2M3NSAwIDExNi42NyAyNSAxMzcuNSA4Ny41IDQuMTcgMTIuNSAxNi42NyAyMC44MyAyOS4xNyAyMC44M2g2Ni42NmMxNi42NyAwIDI5LjE3LTEyLjUgMjkuMTctMjkuMTZ2LTQuMTdjLTE2LjY3LTkxLjY3LTkxLjY3LTE2Mi41LTE4Ny41LTE3MC44M3YtMTAwYzAtMTYuNjctMTIuNS0yOS4xNy0zMy4zMy0zMy4zNGgtNjIuNWMtMTYuNjcgMC0yOS4xNyAxMi41LTMzLjM0IDMzLjM0djk1LjgzYy0xMjUgMTYuNjctMjA0LjE2IDEwMC0yMDQuMTYgMjA0LjE3IDAgMTM3LjUgODMuMzMgMTkxLjY2IDI1OC4zMyAyMTIuNSAxMTYuNjcgMjAuODMgMTU0LjE3IDQ1LjgzIDE1NC4xNyAxMTIuNXMtNTguMzQgMTEyLjUtMTM3LjUgMTEyLjVjLTEwOC4zNCAwLTE0NS44NC00NS44NC0xNTguMzQtMTA4LjM0LTQuMTYtMTYuNjYtMTYuNjYtMjUtMjkuMTYtMjVoLTcwLjg0Yy0xNi42NiAwLTI5LjE2IDEyLjUtMjkuMTYgMjkuMTd2NC4xN2MxNi42NiAxMDQuMTYgODMuMzMgMTc5LjE2IDIyMC44MyAyMDB2MTAwYzAgMTYuNjYgMTIuNSAyOS4xNiAzMy4zMyAzMy4zM2g2Mi41YzE2LjY3IDAgMjkuMTctMTIuNSAzMy4zNC0zMy4zM3YtMTAwYzEyNS0yMC44NCAyMDguMzMtMTA4LjM0IDIwOC4zMy0yMjAuODR6IiBmaWxsPSIjZmZmIi8+CiAgPHBhdGggZD0iTTc4Ny41IDE1OTUuODNjLTMyNS0xMTYuNjYtNDkxLjY3LTQ3OS4xNi0zNzAuODMtODAwIDYyLjUtMTc1IDIwMC0zMDguMzMgMzcwLjgzLTM3MC44MyAxNi42Ny04LjMzIDI1LTIwLjgzIDI1LTQxLjY3VjMyNWMwLTE2LjY3LTguMzMtMjkuMTctMjUtMzMuMzMtNC4xNyAwLTEyLjUgMC0xNi42NyA0LjE2LTM5NS44MyAxMjUtNjEyLjUgNTQ1Ljg0LTQ4Ny41IDk0MS42NyA3NSAyMzMuMzMgMjU0LjE3IDQxMi41IDQ4Ny41IDQ4Ny41IDE2LjY3IDguMzMgMzMuMzQgMCAzNy41LTE2LjY3IDQuMTctNC4xNiA0LjE3LTguMzMgNC4xNy0xNi42NnYtNTguMzRjMC0xMi41LTEyLjUtMjkuMTYtMjUtMzcuNXpNMTIyOS4xNyAyOTUuODNjLTE2LjY3LTguMzMtMzMuMzQgMC0zNy41IDE2LjY3LTQuMTcgNC4xNy00LjE3IDguMzMtNC4xNyAxNi42N3Y1OC4zM2MwIDE2LjY3IDEyLjUgMzMuMzMgMjUgNDEuNjcgMzI1IDExNi42NiA0OTEuNjcgNDc5LjE2IDM3MC44MyA4MDAtNjIuNSAxNzUtMjAwIDMwOC4zMy0zNzAuODMgMzcwLjgzLTE2LjY3IDguMzMtMjUgMjAuODMtMjUgNDEuNjdWMTcwMGMwIDE2LjY3IDguMzMgMjkuMTcgMjUgMzMuMzMgNC4xNyAwIDEyLjUgMCAxNi42Ny00LjE2IDM5NS44My0xMjUgNjEyLjUtNTQ1Ljg0IDQ4Ny41LTk0MS42Ny03NS0yMzcuNS0yNTguMzQtNDE2LjY3LTQ4Ny41LTQ5MS42N3oiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg=="
+      src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv[...]
       alt="USDC"
     >
   </a>
