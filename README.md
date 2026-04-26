@@ -363,6 +363,7 @@ Version: 3.3                     ***********************************************
         alt="Productive Time"
       >
     </a>
+    <br><br>
     <a href="https://github.com/ryanshatch">
       <img
         width="338"
@@ -378,6 +379,7 @@ Version: 3.3                     ***********************************************
         alt="Repos per Language"
       >
     </a>
+    <br><br>
     <a href="https://github.com/ryanshatch">
       <img
         width="338"
@@ -388,7 +390,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="684"
+        width="338"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=338"
         alt="Most Used Languages"
       >
@@ -418,7 +420,7 @@ Version: 3.3                     ***********************************************
       <img
         src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
         alt="Profile Views"
-        style="width: 50%;"
+        style="width: 25%;"
       >
     </a>
   </p>
