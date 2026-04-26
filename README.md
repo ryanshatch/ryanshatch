@@ -342,7 +342,7 @@ Version: 3.3                     ***********************************************
   <div align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
         alt="GitHub Streak Stats"
       >
@@ -350,7 +350,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
         alt="GitHub Profile Details"
       >
@@ -358,7 +358,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
         alt="Productive Time"
       >
@@ -366,7 +366,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
         alt="GitHub Stats"
       >
@@ -374,7 +374,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
         alt="Repos per Language"
       >
@@ -382,7 +382,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
+        width="684"
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
         alt="Most Commit Language"
       >
@@ -390,8 +390,8 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="338"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=338"
+        width="684"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
         alt="Most Used Languages"
       >
     </a>
