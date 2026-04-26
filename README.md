@@ -334,61 +334,75 @@ Version: 3.3                     ***********************************************
 <hr>
 
 <details>
-  <summary align="center"><h2 style="color: white; display: inline;">GitHub Stats</h2></summary><br>
+  <summary align="center">
+    <h2 style="color: white; display: inline;">GitHub Stats</h2>
+  </summary>
+  <br>
 
-  <p align="center">
+  <div align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=338"
-        alt="Streak Stats"
+        width="684"
+        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
+        alt="GitHub Streak Stats"
       >
     </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/ryanshatch">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry" alt="Profile Details">
-    </a>
-  </p>
-
-  <p align="center">
+    <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&hide_border=true&card_width=338&theme=blueberry&utcOffset=8"
+        width="684"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
+        alt="GitHub Profile Details"
+      >
+    </a>
+    <br><br>
+    <a href="https://github.com/ryanshatch">
+      <img
+        width="338"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
         alt="Productive Time"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-        alt="Stats"
+        width="338"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
+        alt="GitHub Stats"
       >
     </a>
-  </p>
-
-  <p align="center">
+    <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&langs_count=13&theme=blueberry"
+        width="338"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
         alt="Repos per Language"
       >
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&hide_border=true&langs_count=13&theme=blueberry"
+        width="338"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
         alt="Most Commit Language"
       >
     </a>
-  </p>
-  <p align="center">
+    <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide=C%2B%2B&exclude_repo=Inventory_Tracker"
-        alt="Top Languages"
-        style="width: 338; height: 100%;"
+        width="684"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
+        alt="Most Used Languages"
       >
     </a>
-  </p>
+    <br><br>
+    <a href="https://github.com/ryanshatch">
+      <img
+        src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
+        alt="Profile Views"
+      >
+    </a>
+
+  </div>
+</details>
   <hr>
 
   <picture>
@@ -411,6 +425,7 @@ Version: 3.3                     ***********************************************
       <img
         src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
         alt="Profile Views"
+        style="width: 50%;"
       >
     </a>
   </p>
