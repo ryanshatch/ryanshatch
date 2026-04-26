@@ -383,9 +383,9 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=33&theme=blueberry"
         alt="Top Languages"
-        style="width: 50%; height: 50%;"
+        style="width: 100%; height: 100%;"
       >
     </a>
   </p>
