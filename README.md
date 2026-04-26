@@ -342,7 +342,7 @@ Version: 3.3                     ***********************************************
   <div align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        width="684"
+        width="338"
         src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
         alt="GitHub Streak Stats"
       >
@@ -350,7 +350,7 @@ Version: 3.3                     ***********************************************
     <br><br>
     <a href="https://github.com/ryanshatch">
       <img
-        width="684"
+        width="338"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
         alt="GitHub Profile Details"
       >
@@ -389,18 +389,11 @@ Version: 3.3                     ***********************************************
     <a href="https://github.com/ryanshatch">
       <img
         width="684"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=338"
         alt="Most Used Languages"
       >
     </a>
     <br><br>
-    <a href="https://github.com/ryanshatch">
-      <img
-        src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
-        alt="Profile Views"
-      >
-    </a>
-
   </div>
 </details>
   <hr>
