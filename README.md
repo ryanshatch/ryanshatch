@@ -375,7 +375,7 @@ Version: 3.3                     ***********************************************
     </a>
     <a href="https://github.com/ryanshatch">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&langs_count=13&theme=blueberry"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&hide_border=true&langs_count=13&theme=blueberry"
         alt="Most Commit Language"
       >
     </a>
@@ -383,7 +383,7 @@ Version: 3.3                     ***********************************************
   <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=28&theme=blueberry&hide=C%2B%2B&exclude_repo=Inventory_Tracker"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide=C%2B%2B&exclude_repo=Inventory_Tracker"
         alt="Top Languages"
         style="width: 338; height: 100%;"
       >
