@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: Dec 14th 2024      *******************************************************
-Version: 3.3                     *******************************************************
+Last Updated: April 26 2026      *******************************************************
+Version: 4.1                     *******************************************************
 ****************************************************************************************
 -->
 
@@ -340,27 +340,21 @@ Version: 3.3                     ***********************************************
   <br>
 
   <div align="center">
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=336"
-              alt="GitHub Streak Stats"
-            >
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
-              alt="GitHub Profile Details"
-            >
-          </a>
-        </td>
-      </tr>
+    <a href="https://github.com/ryanshatch">
+      <img
+        src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
+        alt="GitHub Streak Stats"
+      >
+    </a>
+    <br><br>
+    <a href="https://github.com/ryanshatch">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
+        alt="GitHub Profile Details"
+      >
+    </a>
+    <br><br>
+    <table border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td>
           <a href="https://github.com/ryanshatch">
@@ -381,6 +375,8 @@ Version: 3.3                     ***********************************************
           </a>
         </td>
       </tr>
+      </table>
+      <table>
       <tr>
         <td>
           <a href="https://github.com/ryanshatch">
@@ -401,21 +397,17 @@ Version: 3.3                     ***********************************************
           </a>
         </td>
       </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="684"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=20&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
-              alt="Most Used Languages"
-            >
-          </a>
-        </td>
-      </tr>
     </table>
+    <a href="https://github.com/ryanshatch">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
+        alt="Most Used Languages"
+      >
+    </a>
+    <br><br>
   </div>
 </details>
-  <hr>
+<hr>
 
   <picture>
     <div align="center">
@@ -542,11 +534,7 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 
 <p align="center">
   Some older repositories and archived project files may still contain
-  <code>.pgp</code> files or other encrypted project assets from a previous workflow.
-</p>
-
-<p align="center">
-  I am currently decrypting and reviewing older projects as I work through them,
+  <code>.pgp</code> files or other encrypted project assets from a previous workflow. I am currently decrypting and reviewing older projects as I work through them,
   and in many cases, that layer is no longer necessary.
 </p>
 
