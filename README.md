@@ -11,7 +11,6 @@ Version: 4.1                     ***********************************************
 
 <h1 align="center" style="color: blue;">☀️ Ryan S. Hatch 🌓</h1>
 
-<h2 align="center" style="color: blue;">I am</h2>
 <p align="center">
   <a href="https://ryanshatch.com">
     <img
