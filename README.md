@@ -14,7 +14,7 @@ Version: 4.1                     ***********************************************
 <p align="center">
   <a href="https://ryanshatch.com">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Tech%20Nerd.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Tech%20Professional.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
       alt="Typing roles"
     >
   </a>
@@ -47,7 +47,15 @@ Version: 4.1                     ***********************************************
       <block>Thus, for a temporary work around, if you want to tip me for my work my wallet address is: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</block></code><br>
           <block>Or you can send it to my SNS domain: <code>burner.imaclone.sol</block></code>
 </a>
-<br><hr>
+<!-- <br><hr> -->
+  <p align="center">
+    <img
+      src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+      style="width: 100%; height: 50%; animation: spin 300s linear infinite;"
+      alt="Animated divider"
+    >
+  </p>
+</div>
 
 <!--  <p align="center">
     <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
