@@ -22,7 +22,7 @@ Version: 4.1                     ***********************************************
 
 <p align="center">
   <b>
-    📘 BS in Computer Science w/ a concentration in information security++ 📘<br>
+    📘 BS in Computer Science w/ a concentration in Information Security. 📘<br>
     I have a burning passion for anything that is IoT, especially tailored towards analytics, data, security, and cyber security.
   </b>
 </p>
