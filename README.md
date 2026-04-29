@@ -430,6 +430,7 @@ Version: 4.1                     ***********************************************
       >
     </div>
   </picture>
+  <br>
 
   <p align="center">
     <a href="https://github.com/ryanshatch">
