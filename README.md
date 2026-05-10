@@ -372,15 +372,15 @@ Version: 4.1                     ***********************************************
             >
           </a>
         </td>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-              alt="GitHub Stats"
-            >
-          </a>
-        </td>
+        <!-- <td>
+           #<a href="https://github.com/ryanshatch">
+            #<img
+              #width="336"
+              #src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
+              #alt="GitHub Stats"
+            #>
+          #</a>
+        </td> -->
       </tr>
       </table>
       <table>
