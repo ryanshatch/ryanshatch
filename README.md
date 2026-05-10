@@ -372,15 +372,15 @@ Version: 4.1                     ***********************************************
             >
           </a>
         </td>
-        <!-- <td>
-           #<a href="https://github.com/ryanshatch">
-            #<img
-              #width="336"
-              #src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-              #alt="GitHub Stats"
-            #>
-          #</a>
-        </td> -->
+        <td>
+           <a href="https://github.com/ryanshatch">
+            <img
+              width="336"
+              src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
+              alt="GitHub Stats"
+            >
+          </a>
+        </td>
       </tr>
       </table>
       <table>
@@ -405,12 +405,12 @@ Version: 4.1                     ***********************************************
         </td>
       </tr>
     </table>
-    <a href="https://github.com/ryanshatch">
+    <!-- <a href="https://github.com/ryanshatch">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
         alt="Most Used Languages"
       >
-    </a>
+    </a> -->
     <br><br>
   </div>
 </details>
