@@ -40,7 +40,7 @@ Version: 4.1                     ***********************************************
   <p align="center">
     <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aaf7d4%26cluster%3Dmainnet%26destination%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N%26message%3DThank%2520you%2520for%2520your%2520kind%2520support%2521%2520Any%2520tip%2520is%2520appreciated.%26source%3D7KFnSPTQe5xYwYyQpCCvD6KJ1yk1xMsbJwtyPaUVxYf3" target="_blank" rel="noopener noreferrer">
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
-  <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" /><br>
+  <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
         <p>&darr;</p>
   <strong>Currently the Solscan’s Action endpoint is either down, slow, blocking Dialect, or returning non-compliant metadata/CORS</strong>
   <br>
