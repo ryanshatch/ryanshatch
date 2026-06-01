@@ -2,8 +2,8 @@
 ****************************************************************************************
 Title: README.md                 *******************************************************
 Developed by: Ryan Hatch         *******************************************************
-Last Updated: April 26 2026      *******************************************************
-Version: 4.1                     *******************************************************
+Last Updated: June 1 2026        *******************************************************
+Version: 4.1.1                   *******************************************************
 ****************************************************************************************
 -->
 
@@ -14,7 +14,7 @@ Version: 4.1                     ***********************************************
 <p align="center">
   <a href="https://ryanshatch.com">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Tech%20Professional.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Coder.;A%20Passionate%20Learner.&font=Fira%20Code&center=true&width=500&height=50&color=blue&vCenter=true&pause=1000&size=20"
       alt="Typing roles"
     >
   </a>
@@ -38,14 +38,14 @@ Version: 4.1                     ***********************************************
   <!-- <p>&darr;</p> -->
   <!-- <hr> -->
   <p align="center">
-    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aaf7d4%26cluster%3Dmainnet%26destination%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N%26message%3DThank%2520you%2520for%2520your%2520kind%2520support%2521%2520Any%2520tip%2520is%2520appreciated.%26source%3D7KFnSPTQe5xYwYyQpCCvD6KJ1yk1xMsbJwtyPaUVxYf3" target="_blank" rel="noopener noreferrer">
+    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aa62d0%26to%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
         <p>&darr;</p>
   <strong>Currently the Solscan’s Action endpoint is either down, slow, blocking Dialect, or returning non-compliant metadata/CORS</strong>
   <br>
-      <block>Thus, for a temporary work around, if you want to tip me for my work my wallet address is: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</block></code><br>
-          <block>Or you can send it to my SNS domain: <code>burner.imaclone.sol</block></code>
+      <div>Thus, for a temporary work around, if you want to tip me for my work my wallet address is: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code></div><br>
+          <div>Or you can send it to my SNS domain: <code>burner.imaclone.sol</code></div>
 </a>
 <!-- <br><hr> -->
   <p align="center">
@@ -89,7 +89,7 @@ Version: 4.1                     ***********************************************
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Data%20Analytics.;Fluent%20in%20Cyber%20Security.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Python.;Fluent%20in%20JavaScript.;Fluent%20in%20Java.;Fluent%20in%20C%2B%2B.;Fluent%20in%20Rust.;Fluent%20in%20Solidity.&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=Fluent%20in%20Data%20Analytics.;Fluent%20in%20Cyber%20Security.;Fluent%20in%20Full%20Stack%20Development.;Fluent%20in%20Cryptography.;Fluent%20in%20Algorithms.&font=Fira%20Code&center=true&width=500&height=50&color=blue&vCenter=true&pause=1000&size=20"
       alt="Skill typing banner"
     >
   </p>
@@ -406,7 +406,7 @@ Version: 4.1                     ***********************************************
     </table>
     <!-- <a href="https://github.com/ryanshatch">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&card_width=684"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry&hide_border=true&hide=C%2B%2B&exclude_repo=Inventory_Tracker&custom_title=Top%20Languages"
         alt="Most Used Languages"
       >
     </a> -->
@@ -479,7 +479,7 @@ Version: 4.1                     ***********************************************
   </a>
   <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
     <img
-      src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv[...]
+      src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv..."
       alt="USDC"
     >
   </a>
