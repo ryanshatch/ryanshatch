@@ -12,12 +12,11 @@ Version: 4.1.4                  |***********************************************
 <h1 align="center" style="color: blue;">💻 Ryan S. Hatch 🛡️</h1>
 
 <p align="center">
-  <a href="https://ryanshatch.com">
-    <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Coder.;A%20Passionate%20Learner.&font=Fira%20Code&center=true&width=500&height=50&color=blue&vCenter=true&pause=1000&size=20"
-      alt="Typing roles"
-    >
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=A%20Computer%20Science%20Graduate.;A%20Software%20Developer.;A%20Data%20Analyst.;A%20Blockchain%20Analyst.;A%20Blue%20Teamer.;A%20Versatile%20Coder.;A%20Passionate%20Learner.&font=Fira%20Code&center=true&width=500&height=50&color=blue&vCenter=true&pause=1000&size=20"
+    alt="Typing roles"
+  >
+</a>
 </p>
 
 <p align="center">
