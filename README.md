@@ -42,11 +42,11 @@ Version: 4.1.1                   ***********************************************
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
         <p>&darr;</p>
-  <strong>Currently the Solscan’s Action endpoint is either down, slow, blocking Dialect, or returning non-compliant metadata/CORS</strong>
+  <strong><code>Note:</code>Solscan’s Action endpoint for sending tips is <bold>officially</bold> down.</strong>
   <br>
-      <div>Thus, for a temporary work around, if you want to tip me for my work my wallet address is: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code></div><br>
-          <div>Or you can send it to my SNS domain: <code>burner.imaclone.sol</code></div>
-</a>
+      <div>As a solution to this, I am currently working on my own Action endpoint to deploy.<br>
+    </a>
+  </p>
 <!-- <br><hr> -->
   <p align="center">
     <img
@@ -456,57 +456,6 @@ Version: 4.1.1                   ***********************************************
 
 <hr>
 
-<!-- <h2 align="center" style="color: blue;">Send Cryptocurrency Donations Here ☕</h2>
-<h5 align="center" style="color: blue;">
-  👇 Select the native token for any of the below ecosystems. 👇
-</h5>
-
-<p align="center">
-  <a href="https://etherscan.io/address/0x2855d11e643f8ABB0F9fCE47068C3561f3014330">
-    <img src="https://img.shields.io/badge/$Eth-black?style=for-the-badge&logo=Ethereum&logoColor=blue" alt="Ethereum">
-  </a>
-  <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-    <img src="https://img.shields.io/badge/$sol-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Solana">
-  </a>
-  <a href="https://mempool.space/address/bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv">
-    <img src="https://img.shields.io/badge/$btc-black?style=for-the-badge&logo=bitcoin&logoColor=blue" alt="Bitcoin">
-  </a>
-  <a href="https://ftmscan.com/address/0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C">
-    <img src="https://img.shields.io/badge/$FTM-black?style=for-the-badge&logo=Fantom&logoColor=blue" alt="Fantom">
-  </a>
-  <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-    <img src="https://img.shields.io/badge/$usdt-black?style=for-the-badge&logo=tether&logoColor=blue" alt="USDT">
-  </a>
-  <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-    <img
-      src="https://img.shields.io/badge/$USDC-black?logo=data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9Ijg2OTc3Njg0LTEyZGItNDg1MC04ZjMwLTIzM2E3YzI2N2QxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv..."
-      alt="USDC"
-    >
-  </a>
-</p>
-
-<h5 align="center" style="color: blue;">
-  After you select which chain to use, you will then be re-routed to the explorer of the selected blockchain.<br>
-  Always confirm the wallets match before sending.
-</h5>
-
-<hr>
-
-<h4 align="center" style="color: blue;">Wallets:</h4>
-
-<p align="center">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>$sol: <code>777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N</code></li>
-    <li>$eth: <code>0x2855d11e643f8ABB0F9fCE47068C3561f3014330</code></li>
-    <li>$btc: <code>bc1q26ht6vmnkwyqcr6nrklxr9zh62u7zvcrz0p6cv</code></li>
-    <li>$ftm: <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
-    <li>$usdt (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
-    <li>$usdc (ERC-20): <code>0x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C</code></li>
-  </ul>
-</p>
-
-<hr> -->
-
 <h2 align="center" style="color: blue;">PGP Keys:</h2>
 
 <hr>
@@ -540,14 +489,14 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 <h3 align="center" style="color: blue;">Project Access Notice</h3>
 
 <p align="center">
-  Some older repositories and archived project files may still contain
-  <code>.pgp</code> files or other encrypted project assets from a previous workflow. I am currently decrypting and reviewing older projects as I work through them,
-  and in many cases, that layer is no longer necessary.
+  Some older repositories and archived project files still contain
+  <code>.pgp</code> files or other encrypted project assets from an older workflow of mine. I am currently reviewing and selectively decrypting some of my older projects as I work through them,
+  and in a few cases, that layer will no longer be necessary.
 </p>
 
 <p align="center">
-  If you come across encrypted files in a repository and need access before I have updated it,
-  please message me and I can prioritize that repo.
+  Therefore, if you come across any encrypted files within one of my repositories and want access to them,
+  please dont hesitate to reach out so that I can prioritize that repo and your request.
 </p>
 
 <hr>
