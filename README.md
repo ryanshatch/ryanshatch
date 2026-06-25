@@ -100,7 +100,7 @@ Version: 4.1.4                  |***********************************************
         alt="Portfolio"
       >
     </a>
-    <a href="https://zencrypt.app">
+    <a href="www.whitepapers.zencrypt.app">
       <img
         src="http://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
         alt="Capstone"
