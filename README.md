@@ -43,9 +43,13 @@ Version: 4.1.4                  |***********************************************
         <p>&darr;</p>
   <strong><code>Note:</code>Solscan’s Action endpoint for sending tips is <bold>officially</bold> down.</strong>
   <br>
-      <div>As a solution to this, I am currently working on my own Action endpoint to deploy.<br>
-    </a>
-  </p>
+      <div>
+      As a solution to this, I am currently working on my own
+      <a href="https://github.com/ryanshatch/sol-tipjar" target="_blank" rel="noopener noreferrer">
+        Action endpoint
+      </a>
+      to deploy.
+    </div>
 <!-- <br><hr> -->
   <p align="center">
     <img
