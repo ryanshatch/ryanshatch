@@ -173,21 +173,6 @@ Version: 4.1.4                  |***********************************************
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </a>
-  <a href="https://github.com/ryanshatch">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  </a>
-</p>
-
 <hr>
 
 <h1 align="center" style="color: white;">▫️ Technologies &amp; Frameworks ▫️</h1>
