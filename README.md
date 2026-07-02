@@ -110,7 +110,6 @@ Version: 4.1.4                  |***********************************************
         alt="Capstone"
       >
     </a>
-    </a>
     <a href="https://zencrypt.tech">
       <img
         src="http://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
@@ -133,7 +132,7 @@ Version: 4.1.4                  |***********************************************
   </p>
 </div>
 
-<h1 align="center" style="color: white;">▫️ Programming Languages ▫️</h1>
+<!-- <h1 align="center" style="color: white;">▫️ Programming Languages ▫️</h1>
 
 <p align="center">
   <a href="https://github.com/ryanshatch">
@@ -154,6 +153,24 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
   </a>
+</p> -->
+
+<h1 align="center" style="color: white;">▫️ Programming Languages ▫️</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
+  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C++">
+  <img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue" alt="C#">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=blue" alt="Rust">
+  <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 <p align="center">
@@ -175,7 +192,7 @@ Version: 4.1.4                  |***********************************************
 
 <h1 align="center" style="color: white;">▫️ Technologies &amp; Frameworks ▫️</h1>
 
-<h2 align="center" style="color: blue;">IDEs</h2>
+<!-- <h2 align="center" style="color: blue;">IDEs</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
@@ -186,9 +203,17 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
   </a>
+</p> -->
+
+<h2 align="center" style="color: blue;">IDEs</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code">
+  <img src="https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse&logoColor=blue" alt="Eclipse">
+  <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
 </p>
 
-<h2 align="center" style="color: blue;">Front End Frameworks</h2>
+<!-- <h2 align="center" style="color: blue;">Front End Frameworks</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
@@ -199,9 +224,17 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
   </a>
+</p> -->
+
+<h2 align="center" style="color: blue;">Front End Frameworks</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=Python&logoColor=blue" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Swing-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java Swing">
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="Bootstrap">
 </p>
 
-<h3 align="center" style="color: blue;">Backend Frameworks for Python</h3>
+<!-- <h3 align="center" style="color: blue;">Backend Frameworks for Python</h3>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
@@ -219,9 +252,23 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   </a>
+</p> -->
+
+<h3 align="center" style="color: blue;">Backend Frameworks for Python</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=blue" alt="Flask">
+  <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue" alt="Django">
 </p>
 
-<h3 align="center" style="color: blue;">Backend Frameworks for Java</h3>
+<h4 align="center" style="color: blue;">Libraries (Python)</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+<!-- <h3 align="center" style="color: blue;">Backend Frameworks for Java</h3>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache Maven">
@@ -242,11 +289,26 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
   </a>
+</p> -->
+
+<h3 align="center" style="color: blue;">Backend Frameworks for Java</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/maven-black?style=for-the-badge&logo=apache-maven&logoColor=blue" alt="Apache Maven">
+  <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=gradle&logoColor=blue" alt="Gradle">
+</p>
+
+<h4 align="center" style="color: blue;">Libraries &amp; APIs (Java)</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAX RS-black?style=for-the-badge&logo=apache&logoColor=white" alt="Jersey / JAX-RS">
+  <img src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Dropwizard-black?style=for-the-badge&logo=openjdk&logoColor=white" alt="Dropwizard">
 </p>
 
 <hr>
 
-<h2 align="center" style="color: blue;">▫️ Databases, Containerization, &amp; Orchestration ▫️</h2>
+<!-- <h2 align="center" style="color: blue;">▫️ Databases, Containerization, &amp; Orchestration ▫️</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
@@ -269,11 +331,23 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android%20studio&logoColor=blue" alt="Android Studio">
   </a>
+</p> -->
+
+<h2 align="center" style="color: white;">▫️ Databases, Containerization, &amp; Orchestration ▫️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker">
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=blue" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=blue" alt="Jupyter">
+  <img src="https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=opengl&logoColor=blue" alt="OpenGL">
+  <img src="https://img.shields.io/badge/travis%20ci-black?style=for-the-badge&logo=travis&logoColor=blue" alt="Travis CI">
+  <img src="https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android%20studio&logoColor=blue" alt="Android Studio">
 </p>
 
 <hr>
 
-<h2 align="center" style="color: blue;">▫️ Technologies ▫️</h2>
+<!-- <h2 align="center" style="color: blue;">▫️ Technologies ▫️</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Parted%20Magic-black?style=for-the-badge&logo=linux&logoColor=white" alt="Parted Magic">
@@ -299,11 +373,26 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure">
   </a>
+</p> -->
+
+<h2 align="center" style="color: white;">▫️ Technologies ▫️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Parted%20Magic-black?style=for-the-badge&logo=linux&logoColor=white" alt="Parted Magic">
+  <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/OWASP Dependency Check-black?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Dependency Check">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/overleaf-black?style=for-the-badge&logo=OverLeaf&logoColor=blue" alt="Overleaf">
+  <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=blue" alt="Canva">
+  <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue" alt="Figma">
+  <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=blue" alt="Azure">
 </p>
 
 <hr>
 
-<h2 align="center" style="color: blue;">▫️ Office Tools ▫️</h2>
+<!-- <h2 align="center" style="color: blue;">▫️ Office Tools ▫️</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio">
@@ -314,11 +403,19 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" alt="Microsoft PowerPoint">
   </a>
+</p> -->
+
+<h2 align="center" style="color: white;">▫️ Office Tools ▫️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Visio-black?style=for-the-badge&logo=microsoft-visio&logoColor=blue" alt="Microsoft Visio">
+  <img src="https://img.shields.io/badge/LibreOffice-black?style=for-the-badge&logo=LibreOffice&logoColor=blue" alt="LibreOffice">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-black?style=for-the-badge&logo=microsoft-powerpoint&logoColor=blue" alt="Microsoft PowerPoint">
 </p>
 
 <hr>
 
-<h2 align="center" style="color: blue;">▫️ Operating Systems &amp; Platforms ▫️</h2>
+<!-- <h2 align="center" style="color: blue;">▫️ Operating Systems &amp; Platforms ▫️</h2>
 <p align="center">
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
@@ -338,11 +435,22 @@ Version: 4.1.4                  |***********************************************
   <a href="https://github.com/ryanshatch">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
   </a>
+</p> -->
+
+<h2 align="center" style="color: white;">▫️ Operating Systems &amp; Platforms ▫️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue" alt="Windows">
+  <img src="https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
+  <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=blue" alt="Linux">
+  <img src="https://img.shields.io/badge/raspbian-black?style=for-the-badge&logo=raspberry-pi&logoColor=blue" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
+  <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
 </p>
 
 <hr>
 
-<details>
+<!-- <details>
   <summary align="center">
     <h2 style="color: white; display: inline;">GitHub Stats</h2>
   </summary>
@@ -413,10 +521,71 @@ Version: 4.1.4                  |***********************************************
         alt="Most Used Languages"
       >
     </a> -->
+<!--    <br>
+  </div>
+</details> -->
+<hr>
+
+<details>
+  <summary align="center">
+    <h2 style="color: white; display: inline;">GitHub Stats</h2>
+  </summary>
+  <br>
+
+  <div align="center">
+    <img
+      src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
+      alt="GitHub Streak Stats"
+    >
+    <br><br>
+
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
+      alt="GitHub Profile Details"
+    >
+    <br><br>
+
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>
+          <img
+            width="336"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
+            alt="Productive Time"
+          >
+        </td>
+        <td>
+          <img
+            width="336"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
+            alt="GitHub Stats"
+          >
+        </td>
+      </tr>
+    </table>
+
+    <table>
+      <tr>
+        <td>
+          <img
+            width="336"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
+            alt="Repos per Language"
+          >
+        </td>
+        <td>
+          <img
+            width="336"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
+            alt="Most Commit Language"
+          >
+        </td>
+      </tr>
+    </table>
+
     <br>
   </div>
 </details>
-<hr>
 
   <picture>
     <div align="center">
@@ -434,7 +603,7 @@ Version: 4.1.4                  |***********************************************
   </picture>
   <br>
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://github.com/ryanshatch">
       <img
         src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
@@ -443,7 +612,15 @@ Version: 4.1.4                  |***********************************************
       >
     </a>
   </p>
-</details>
+</details> -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ryanshatch&color=blue&style=flat"
+    alt="Profile Views"
+    style="width: 25%;"
+  >
+</p>
 
 <hr>
 
@@ -459,7 +636,7 @@ Version: 4.1.4                  |***********************************************
 
 <hr>
 
-<h2 align="center" style="color: blue;">PGP Keys:</h2>
+<h2 align="center" style="color: white;">PGP Keys:</h2>
 
 <hr>
 
@@ -489,7 +666,7 @@ CRL2ToEACgkQpgkSpTh3G+hAKwD/djG0ybfufezgMLVDID0cULhLqfSCxX0vNzG/
 ```
 <hr>
 
-<h3 align="center" style="color: blue;">Project Access Notice</h3>
+<h3 align="center" style="color: white;">Project Access Notice</h3>
 
 <p align="center">
   Some older repositories and archived project files still contain
