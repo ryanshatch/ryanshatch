@@ -524,7 +524,7 @@ Version: 4.1.4                  |***********************************************
 <!--    <br>
   </div>
 </details> -->
-<hr>
+<!-- <hr> -->
 
 <details>
   <summary align="center">
@@ -538,13 +538,11 @@ Version: 4.1.4                  |***********************************************
       alt="GitHub Streak Stats"
     >
     <br><br>
-
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
       alt="GitHub Profile Details"
     >
     <br><br>
-
     <table border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td>
@@ -563,7 +561,6 @@ Version: 4.1.4                  |***********************************************
         </td>
       </tr>
     </table>
-
     <table>
       <tr>
         <td>
@@ -582,7 +579,6 @@ Version: 4.1.4                  |***********************************************
         </td>
       </tr>
     </table>
-
     <br>
   </div>
 </details>
