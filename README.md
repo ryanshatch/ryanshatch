@@ -35,16 +35,22 @@ Version: 4.1.4                  |***********************************************
 
 <div align="center">
   <!-- <p>&darr;</p> -->
+  <a href="https://chat.blockscan.com/index?a=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+  <img src="https://img.shields.io/badge/e2e dm - S◎L-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
+  </a>
   <!-- <hr> -->
   <p align="center">
-    <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aa62d0%26to%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+    <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+    <!-- <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aa62d0%26to%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
-  <img src="https://img.shields.io/badge/tip me - $S◎L-black?style=for-the-badge&logo=solana&logoColor=blue" alt="solana" />
+  <img 
+  src="https://img.shields.io/badge/tip jar - S◎L-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
         <p>&darr;</p>
-  <strong><code>Note:</code>Solscan’s Action endpoint for sending tips is <bold>officially</bold> down.</strong>
+  <strong><code>Note:</code>Solscan’s Action endpoint for sending tips has been updated.
+   <!-- is under construction.<bold>officially</bold> down.</strong> -->
   <br>
       <div>
-      As a solution to this, I am currently working on my own
+      Nonetheless, I am currently working on my own
       <a href="https://github.com/ryanshatch/sol-tipjar" target="_blank" rel="noopener noreferrer">
         Action endpoint
       </a>
@@ -107,13 +113,13 @@ Version: 4.1.4                  |***********************************************
     <a href="https://zencrypt.app">
       <img
         src="http://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
-        alt="Capstone"
+        alt="Web2 Solutions"
       >
     </a>
     <a href="https://zencrypt.tech">
       <img
         src="http://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
-        alt="solsprites"
+        alt="Hybrid Web2/Web3 Solutions"
       >
     </a>
     <a href="mailto:ryanshatch@protonmail.com">
