@@ -40,7 +40,7 @@ Version: 4.1.4                  |***********************************************
   </a>
   <!-- <hr> -->
   <p align="center">
-    <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
+    <a href="https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
     <!-- <a href="https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsolana.dial.to%2Fapi%2Factions%2Ftransfer%3F_brf%3D7d019d0d-3787-4607-92d6-8f0d7b728011%26_bin%3Df297938b-89de-4349-a72f-c74f45aa62d0%26to%3D777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <!-- <a href="https://www.dial.to/?action=solana-action:https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N"> -->
   <img 
