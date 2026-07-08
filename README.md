@@ -8,7 +8,6 @@ Version: 4.1.4                  |***********************************************
 -->
 
 <hr>
-<h1 align="center" style="color: blue;">Happy 4th!</h1>
 <h1 align="center" style="color: blue;">💻 Ryan S. Hatch 🛡️</h1>
 
 <p align="center">
