@@ -111,13 +111,13 @@ Version: 4.1.4                  |***********************************************
     </a>
     <a href="https://zencrypt.app">
       <img
-        src="http://img.shields.io/badge/CS Capstone:_-Zencrypt Webapp-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/Zencrypt-Webapp-blue?style=flat-square&logo=Playstation"
         alt="Web2 Solutions"
       >
     </a>
     <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/Web3 Solutions:_-Zencrypt dApp-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/Zencrypt-Hybrid dApp-blue?style=flat-square&logo=Playstation"
         alt="Hybrid Web2/Web3 Solutions"
       >
     </a>
