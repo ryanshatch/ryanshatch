@@ -25,6 +25,18 @@ Version: 4.1.4                  |***********************************************
   </b>
 </p>
 
+<hr>
+
+<h4 align="center" style="color: blue;">
+  Buy me some coffee or send a small donation to support my work. 🙂
+</h4>
+
+<p align="center">
+  <a href="https://ko-fi.com/ryanshatch">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi">
+  </a>
+</p>
+
 <!-- <p align="center">
     <a href="https://music.apple.com/us/song/pinwheels/1587299485">
     <img src="https://img.shields.io/badge/Apple - Music-black?style=for-the-badge&logo=Apple&logoColor=blue" alt="Mac">
@@ -606,18 +618,6 @@ Version: 4.1.4                  |***********************************************
     alt="Profile Views"
     style="width: 25%;"
   >
-</p>
-
-<hr>
-
-<h3 align="center" style="color: blue;">
-  If you've made it this far, please consider buying me a cup of coffee or a small donation to support my work.
-</h3>
-
-<p align="center">
-  <a href="https://ko-fi.com/ryanshatch">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi">
-  </a>
 </p>
 
 <hr>
