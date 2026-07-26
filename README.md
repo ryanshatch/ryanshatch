@@ -156,7 +156,8 @@ Version: 4.1.4                  |***********************************************
 <h2 align="center" style="color: blue;">IDEs &amp; Development Environments</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visualstudio&logoColor=blue" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logoColor=blue" alt="Visual Studio">
+  
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="VS Code">
   <img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide&logoColor=blue" alt="Eclipse">
   <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=blue" alt="PyCharm">
@@ -333,17 +334,18 @@ Version: 4.1.4                  |***********************************************
 <h1 align="center" style="color: white;">▫️ Operating Systems &amp; Platforms ▫️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows%2010-black?style=for-the-badge&logo=windows10&logoColor=blue" alt="Windows 10">
-  <img src="https://img.shields.io/badge/Windows%2011-black?style=for-the-badge&logo=windows11&logoColor=blue" alt="Windows 11">
-  <img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=blue" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&labelColor=black&logoColor=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwIDEwLjg3M1YyMEw4LjQ3OSAxOC41MzdsLjAwMS03LjY2NEgyMFptLTEzLjEyIDBsLS4wMDEgNy40NjFMMCAxNy40NjF2LTYuNTg4aDYuODhaTTIwIDkuMjczSDguNDhsLS4wMDEtNy44MUwyMCAwdjkuMjczWk02Ljg3OSAxLjY2NmwuMDAxIDcuNjA3SDBWMi41MzlsNi44NzktLjg3M1oiLz48L3N2Zz4=">
+  <!-- <img src="https://img.shields.io/badge/Windows%2010-black?style=for-the-badge&logo=windows10&logoColor=blue" alt="Windows 10">
+  <img src="https://img.shields.io/badge/Windows%2011-black?style=for-the-badge&logo=windows11&logoColor=blue" alt="Windows 11"> -->
+  <!-- <img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=blue" alt="macOS"> -->
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=blue" alt="Linux">
   <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=blue" alt="Debian">
   <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=blue" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-black?style=for-the-badge&logo=raspberrypi&logoColor=blue" alt="Raspberry Pi OS">
-  <img src="https://img.shields.io/badge/WSL-black?style=for-the-badge&logo=windows&logoColor=blue" alt="WSL">
+  <img src="https://img.shields.io/badge/WSL-black?style=for-the-badge&labelColor=black&logo=linux&logoColor=blue" alt="WSL">
   <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
   <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=blue" alt="Raspberry Pi">
+  <!-- <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=blue" alt="Raspberry Pi"> -->
 </p>
 
 <hr>
@@ -403,6 +405,11 @@ Version: 4.1.4                  |***********************************************
     </table>
     <br>
   </div>
+  <p align="center">
+  <a href="https://github.com/SarveshMankar">
+    <img title="GitHub Stats" alt="ryanshatch's streak" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanshatch&theme=tokyo-night"/>
+  </a>
+</p>
 </details>
 
   <picture>
