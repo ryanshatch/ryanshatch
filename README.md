@@ -381,10 +381,9 @@ Version: 4.2.0                  |***********************************************
     <h2 style="color: white; display: inline;">GitHub </h2>
   </summary>
   <br>
-<!-- src="https://github-streak--ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684" -->
   <div align="center">
     <img
-    src="https://streak-.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
+    src="https://streak-stats.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
     alt="GitHub Streak "
     >
     <br><br>
