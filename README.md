@@ -30,16 +30,8 @@ Version: 4.2.0                  |***********************************************
 <hr>
 
 <h4 align="center" style="color: blue;">
-  Buy me some coffee or send a small donation to support my work. 🙂
-</h4>
-
-<p align="center">
-  <a href="https://ko-fi.com/ryanshatch">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi">
-  </a>
-</p>
-
-<hr>
+<!--  Buy me some coffee or send a small donation to support my work. 🙂 -->
+<!-- </h4> -->
 
 <div align="center">
   <a href="https://chat.blockscan.com/index?a=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
@@ -48,7 +40,18 @@ Version: 4.2.0                  |***********************************************
   <a href="https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
   <img src="https://img.shields.io/badge/tip jar - blink action-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
   </a>
+  <br><br>
   <p>&darr;</p>
+  <a href="https://support.ryanshatch.com">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-black?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor">
+  </a>
+    <a href="https://tip.ryanshatch.com">
+    <img src="https://img.shields.io/badge/Tip-black?style=for-the-badge&logo=solana&logoColor=white" alt="Ko-Fi">
+  </a>
+    <a href="https://ko-fi.com/ryanshatch">
+    <img src="https://img.shields.io/badge/Ko--fi-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
+  </a>
+</p>
   <strong><code>Note:</code>Solscan’s Action endpoint for sending tips has been updated.
   <br>
       <div>
@@ -375,14 +378,14 @@ Version: 4.2.0                  |***********************************************
 
 <details>
   <summary align="center">
-    <h2 style="color: white; display: inline;">GitHub Stats</h2>
+    <h2 style="color: white; display: inline;">GitHub </h2>
   </summary>
   <br>
-
+<!-- src="https://github-streak--ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684" -->
   <div align="center">
     <img
-      src="https://github-streak-stats-ruby.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
-      alt="GitHub Streak Stats"
+    src="https://streak-.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
+    alt="GitHub Streak "
     >
     <br><br>
     <img
@@ -402,8 +405,8 @@ Version: 4.2.0                  |***********************************************
         <td>
           <img
             width="336"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-            alt="GitHub Stats"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/?username=ryanshatch&theme=blueberry"
+            alt="GitHub "
           >
         </td>
       </tr>
@@ -430,7 +433,7 @@ Version: 4.2.0                  |***********************************************
   </div>
   <p align="center">
   <a href="https://github.com/SarveshMankar">
-    <img title="GitHub Stats" alt="ryanshatch's streak" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanshatch&theme=tokyo-night"/>
+    <img title="GitHub " alt="ryanshatch's streak" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanshatch&theme=tokyo-night"/>
   </a>
 </p>
 </details>
