@@ -380,7 +380,9 @@ Version: 4.2.0                  |***********************************************
   <summary align="center">
     <h2 style="color: white; display: inline;">GitHub </h2>
   </summary>
+  
   <br>
+  
   <div align="center">
     <img
     src="https://streak-stats.vercel.app/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
