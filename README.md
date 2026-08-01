@@ -23,7 +23,7 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <b>
     📘 BS in Computer Science w/ a concentration in Information Security. 📘<br>
-    I have a burning passion for anything that is IoT, especially tailored towards analytics, data, security, and cyber security.
+    I have a burning passion for anything IoT and tailored towards analytics, data, security, and cyber security.
   </b>
 </p>
 
@@ -35,10 +35,10 @@ Version: 4.2.0                  |***********************************************
 
 <div align="center">
   <a href="https://chat.blockscan.com/index?a=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-  <img src="https://img.shields.io/badge/e2ee - messenger -black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
+  <img src="https://img.shields.io/badge/e2ee-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
   </a>
   <a href="https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-  <img src="https://img.shields.io/badge/tip jar - blink action-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
+  <img src="https://img.shields.io/badge/Blink-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
   </a>
   <br><br>
   <p>&darr;</p>
@@ -61,6 +61,7 @@ Version: 4.2.0                  |***********************************************
       </a>
       to deploy.
     </div>
+    <br>
   <p align="center">
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
