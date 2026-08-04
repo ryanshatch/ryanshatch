@@ -391,7 +391,7 @@ Version: 4.2.0                  |***********************************************
     >
     <br><br>
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
+      src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/profile-summary-card-output/blueberry/0-profile-details.svg"
       alt="GitHub Profile Details"
     >
     <br><br>
@@ -400,14 +400,14 @@ Version: 4.2.0                  |***********************************************
         <td>
           <img
             width="336"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
+            src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/profile-summary-card-output/blueberry/4-productive-time.svg"
             alt="Productive Time"
           >
         </td>
         <td>
           <img
             width="336"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/?username=ryanshatch&theme=blueberry"
+            src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/profile-summary-card-output/blueberry/3-stats.svg"
             alt="GitHub "
           >
         </td>
@@ -418,14 +418,14 @@ Version: 4.2.0                  |***********************************************
         <td>
           <img
             width="336"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
+            src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
             alt="Repos per Language"
           >
         </td>
         <td>
           <img
             width="336"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
+            src="https://raw.githubusercontent.com/ryanshatch/ryanshatch/main/profile-summary-card-output/blueberry/2-most-commit-language.svg"
             alt="Most Commit Language"
           >
         </td>
