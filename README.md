@@ -361,7 +361,7 @@ Version: 4.2.0                  |***********************************************
 <h1 align="center" style="color: white;">▫️ Operating Systems &amp; Platforms ▫️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&labelColor=black&logoColor=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwIDEwLjg3M1YyMEw4LjQ3OSAxOC41MzdsLjAwMS03LjY2NEgyMFptLTEzLjEyIDBsLS4wMDEgNy40NjFMMCAxNy40NjF2LTYuNTg4aDYuODhaTTIwIDkuMjczSDguNDhsLS4wMDEtNy44MUwyMCAwdjkuMjczWk02Ljg3OSAxLjY2NmwuMDAxIDcuNjA3SDBWMi41MzlsNi44NzktLjg3M1oiLz48L3N2Zz4=">
+  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&labelColor=black&logoColor=blue&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9IiMwMDdFQzYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwIDEwLjg3M1YyMEw4LjQ3OSAxOC41MzdsLjAwMS03LjY2NEgyMFptLTEzLjEyIDBsLS4wMDEgNy40NjFMMCAxNy40NjF2LTYuNTg4aDYuODhaTTIwIDkuMjczSDguNDhsLS4wMDEtNy44MUwyMCAwdjkuMjczWk02Ljg3OSAxLjY2NmwuMDAxIDcuNjA3SDBWMi41MzlsNi44NzktLjg3M1oiLz48L3N2Zz4%3D">
   <!-- <img src="https://img.shields.io/badge/Windows%2010-black?style=for-the-badge&logo=windows10&logoColor=blue" alt="Windows 10">
   <img src="https://img.shields.io/badge/Windows%2011-black?style=for-the-badge&logo=windows11&logoColor=blue" alt="Windows 11"> -->
   <!-- <img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=blue" alt="macOS"> -->
