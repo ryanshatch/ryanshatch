@@ -139,7 +139,7 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=blue" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=dotnet&logoColor=blue" alt="C#">
   <img src="https://img.shields.io/badge/VB.NET-black?style=for-the-badge&logo=dotnet&logoColor=blue" alt="VB.NET">
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
   <img src="https://img.shields.io/badge/Pine%20Script-black?style=for-the-badge&logo=tradingview&logoColor=blue" alt="Pine Script">
@@ -148,7 +148,7 @@ Version: 4.2.0                  |***********************************************
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css&logoColor=blue" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash / Shell">
 </p>
@@ -190,7 +190,7 @@ Version: 4.2.0                  |***********************************************
   <img src="https://img.shields.io/badge/Fernet-black?style=for-the-badge&logo=python&logoColor=blue" alt="Fernet">
   <img src="https://img.shields.io/badge/PBKDF2-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="PBKDF2">
   <img src="https://img.shields.io/badge/Argon2-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="Argon2">
-  <img src="https://img.shields.io/badge/PGP-black?style=for-the-badge&logo=gnupg&logoColor=blue" alt="PGP">
+  <img src="https://img.shields.io/badge/PGP-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="PGP">
   <img src="https://img.shields.io/badge/SHA--256-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="SHA-256">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=blue" alt="JWT">
   <img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp&logoColor=blue" alt="OWASP">
