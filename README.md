@@ -176,6 +176,23 @@ Version: 4.2.0                  |***********************************************
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
+<h2 align="center" style="color: #007EC6;">Cryptography &amp; Security</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ED25519-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="ED25519">
+  <img src="https://img.shields.io/badge/X25519-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="X25519">
+  <img src="https://img.shields.io/badge/ECC%20%2F%20ECDH-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="ECC / ECDH">
+  <img src="https://img.shields.io/badge/RSA%20%2F%20RSA--OAEP-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="RSA / RSA-OAEP">
+  <img src="https://img.shields.io/badge/AES-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="AES">
+  <img src="https://img.shields.io/badge/Fernet-black?style=for-the-badge&logo=python&logoColor=blue" alt="Fernet">
+  <img src="https://img.shields.io/badge/PBKDF2-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="PBKDF2">
+  <img src="https://img.shields.io/badge/Argon2-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="Argon2">
+  <img src="https://img.shields.io/badge/PGP-black?style=for-the-badge&logo=gnupg&logoColor=blue" alt="PGP">
+  <img src="https://img.shields.io/badge/SHA--256-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="SHA-256">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=blue" alt="JWT">
+  <img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp&logoColor=blue" alt="OWASP">
+</p>
+
 <h2 align="center" style="color: #007EC6;">Blockchain &amp; Web3</h2>
 
 <p align="center">
@@ -183,7 +200,10 @@ Version: 4.2.0                  |***********************************************
   <img src="https://img.shields.io/badge/Base-black?style=for-the-badge&logo=coinbase&logoColor=blue" alt="Base">
   <img src="https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Solana">
   <img src="https://img.shields.io/badge/Anchor-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Anchor">
-  <img src="https://img.shields.io/badge/Ed25519-black?style=for-the-badge&logo=letsencrypt&logoColor=blue" alt="Ed25519">
+  <img src="https://img.shields.io/badge/Metaplex-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Metaplex">
+  <img src="https://img.shields.io/badge/Candy%20Machine-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Candy Machine">
+  <img src="https://img.shields.io/badge/Sugar%20CLI-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Sugar CLI">
+  <img src="https://img.shields.io/badge/Solana%20Actions-black?style=for-the-badge&logo=solana&logoColor=blue" alt="Solana Actions">
 </p>
 
 <hr>
