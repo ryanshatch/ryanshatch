@@ -142,6 +142,7 @@ Version: 4.2.0                  |***********************************************
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=blue" alt="C#">
   <img src="https://img.shields.io/badge/VB.NET-black?style=for-the-badge&logo=dotnet&logoColor=blue" alt="VB.NET">
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=blue" alt="Solidity">
+  <img src="https://img.shields.io/badge/Pine%20Script-black?style=for-the-badge&logo=tradingview&logoColor=blue" alt="Pine Script">
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue" alt="SQL">
 </p>
 
@@ -174,6 +175,8 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
 <h2 align="center" style="color: #007EC6;">Cryptography &amp; Security</h2>
