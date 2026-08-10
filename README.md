@@ -175,7 +175,7 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=blue" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
