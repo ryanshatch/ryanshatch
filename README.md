@@ -148,7 +148,7 @@ Version: 4.2.0                  |***********************************************
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css&logoColor=blue" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash / Shell">
 </p>
@@ -175,7 +175,7 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=blue" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
