@@ -52,7 +52,7 @@ Version: 4.2.0                  |***********************************************
     <img src="https://img.shields.io/badge/Ko--fi-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
   </a>
 </p>
-  <strong><code>Note:</code>Solscan’s Action endpoint for sending tips has been updated.
+  <!-- <strong><code>Note:</code>Solscan’s Action endpoint for sending tips has been updated.
   <br>
       <div>
       Nonetheless, I am currently working on my own
@@ -61,7 +61,7 @@ Version: 4.2.0                  |***********************************************
       </a>
       to deploy.
     </div>
-    <br>
+    <br> -->
   <p align="center">
     <img
       src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
