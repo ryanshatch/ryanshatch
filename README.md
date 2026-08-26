@@ -37,8 +37,8 @@ Version: 4.2.0                  |***********************************************
   <a href="https://chat.blockscan.com/index?a=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
   <img src="https://img.shields.io/badge/e2ee-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
   </a>
-  <a href="https://action.solscan.io/api/donate?receiver=777ePKXhcxMdJPMA22YeiR6pdMUTadnpT7AUyto2Y24N">
-  <img src="https://img.shields.io/badge/Blink-black?style=for-the-badge&logo=solana&logoColor=white" alt="solana" />
+  <a href="https://chat.blockscan.com/index?a=70x53B1C98594835e82aD1C8756fcEe8Eb18EC0861C">
+  <img src="https://img.shields.io/badge/e2ee-black?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum" />
   </a>
   <br><br>
   <p>&darr;</p>
