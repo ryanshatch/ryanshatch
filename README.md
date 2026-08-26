@@ -354,7 +354,7 @@ Version: 4.2.0                  |***********************************************
   </div>
   <p align="center">
 <!--  <img title="GitHub " alt="ryanshatch's streak" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanshatch&theme=tokyo-night"/> -->
-  <img title="GitHub " alt="ryanshatch's streak" src="https://github-stats-extended.vercel.app/api/top-langs?username=ryanshatch&layout=compact&hide_title=true&langs_count=13&theme=tokyonight"/>
+  <img title="GitHub " alt="ryanshatch's streak" src="https://github-stats-extended.vercel.app/api/top-langs?username=ryanshatch&layout=compact&hide_title=true&langs_count=13&theme=tokyonight&hide=C%2B%2B"/>
 </p>
 </details>
 
