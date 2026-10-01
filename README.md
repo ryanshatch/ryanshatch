@@ -23,7 +23,7 @@ Version: 4.2.0                  |***********************************************
 <p align="center">
   <b>
     📘 BS in Computer Science w/ a concentration in Information Security. 📘<br>
-    I have a burning passion for anything IoT and tailored towards analytics, data, security, and cyber security.
+    I have a burning passion for anything IoT; tailored towards analytics, data, security, and cyber security.
   </b>
 </p>
 
