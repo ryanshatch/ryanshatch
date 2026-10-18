@@ -120,7 +120,7 @@ Version: 4.2.0                  |***********************************************
     </a>
     <a href="https://sapbot.org">
       <img
-        src="http://img.shields.io/badge/SAPbot-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/AML%20Tracker-SAPbot-blue?style=flat-square&logo=Playstation"
         alt="AML Platform"
       >
     </a>
