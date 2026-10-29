@@ -114,7 +114,7 @@ Version: 4.2.0                  |***********************************************
     </a>
     <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/Zencrypt-Hybrid: dApp-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/Zencrypt:-Hybrid dApp-blue?style=flat-square&logo=Playstation"
         alt="Hybrid Web2/Web3 Solutions"
       >
     </a>
