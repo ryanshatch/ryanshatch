@@ -108,19 +108,19 @@ Version: 4.2.0                  |***********************************************
     </a>
     <a href="https://zencrypt.app">
       <img
-        src="http://img.shields.io/badge/Zencrypt-Webapp-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/Zencrypt:-Webapp-blue?style=flat-square&logo=Playstation"
         alt="Web2 Solutions"
       >
     </a>
     <a href="https://zencrypt.tech">
       <img
-        src="http://img.shields.io/badge/Zencrypt-Hybrid dApp-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/Zencrypt-Hybrid: dApp-blue?style=flat-square&logo=Playstation"
         alt="Hybrid Web2/Web3 Solutions"
       >
     </a>
     <a href="https://sapbot.org">
       <img
-        src="http://img.shields.io/badge/AML%20Tracker-SAPbot-blue?style=flat-square&logo=Playstation"
+        src="http://img.shields.io/badge/AML%20Tracker:-SAPbot-blue?style=flat-square&logo=Playstation"
         alt="AML Platform"
       >
     </a>
