@@ -368,12 +368,12 @@ Version: 4.2.0                  |***********************************************
     <div align="center">
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
+        srcset="https://raw.githubusercontent.com/ryanshatch/Can-You-Even-Triforce/main/1331599477182.jpg?token=GHSAT0AAAAAADXTEBNGKRASP5PVSFDBHU7E2XFW36Q"
         style="width: 100%; height: auto;"
       >
       <img
         alt="Triforce"
-        src="https://github.com/ryanshatch/Can-You-Even-Triforce/raw/main/1331599477182.jpg"
+        src="https://raw.githubusercontent.com/ryanshatch/Can-You-Even-Triforce/main/1331599477182.jpg?token=GHSAT0AAAAAADXTEBNGKRASP5PVSFDBHU7E2XFW36Q"
         style="width: 200%;"
       >
     </div>
